@@ -9,7 +9,7 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Cronograma](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/Cronograma - Ferramentas Digitais e a pesquisa em humanidades.html).
+[Cronograma](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/Cronograma.html).
 
 There should be whitespace between paragraphs.
 
