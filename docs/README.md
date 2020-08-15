@@ -1,27 +1,14 @@
-# The Minimal theme
+# FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-![Thumbnail of minimal](thumbnail.png)
+![Thumbnail of minimal](docs/LOGO-HISTÓRIA-BA-novo.png)
 
-## Usage
+## EMENTA
 
-To use the Minimal theme:
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    theme: jekyll-theme-minimal
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
+O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 
 
 ## Customizing
