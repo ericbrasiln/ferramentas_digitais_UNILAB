@@ -1,6 +1,6 @@
 # FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
-<img href="docs/LOGO-HISTÓRIA-BA-novo.png">
+<img href="https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/LOGO-HISTÓRIA-BA-novo.png">
 
 ## EMENTA
 
@@ -9,7 +9,7 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Cronograma](docs/Cronograma - Ferramentas Digitais e a pesquisa em humanidades.html).
+[Cronograma](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/Cronograma - Ferramentas Digitais e a pesquisa em humanidades.html).
 
 There should be whitespace between paragraphs.
 
