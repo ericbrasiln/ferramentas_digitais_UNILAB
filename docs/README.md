@@ -9,9 +9,11 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Cronograma](/Cronograma.html).
+[Cronograma](Cronograma.html).
 
 [Plano de Ensino](plano-de-ensino.html).
+
+[Teste](teste.html)
 
 
 ### Header 3
