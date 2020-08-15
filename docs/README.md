@@ -11,9 +11,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Cronograma](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/Cronograma.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Plano de Ensino](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/plano-de-ensino.html).
 
 
 ### Header 3
