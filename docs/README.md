@@ -1,6 +1,6 @@
 # FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
-<img href="https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/LOGO-HISTÓRIA-BA-novo.png">
+<img src="https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/LOGO-HISTÓRIA-BA-novo.png", alt="logo história">
 
 ## EMENTA
 
