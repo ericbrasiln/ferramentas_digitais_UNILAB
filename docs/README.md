@@ -1,6 +1,6 @@
 # FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
-<img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" height="42" width="42"/>
+<img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" height="200" width="200"/>
 
 ## EMENTA
 
