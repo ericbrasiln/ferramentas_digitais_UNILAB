@@ -1,49 +1,29 @@
 # FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
-<img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" />
+<img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" height="42" width="42"/>
 
 ## EMENTA
 
 >O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 >
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+## Cronograma
 [Cronograma](Cronograma.html).
 
+## Plano de ensino
 [Plano de Ensino](plano-de-ensino.html).
 
+## Teste
 [Teste](teste.html)
 
+## Contatos
+* E-mail: profericbrasil@unilab.edu.br
+* <a href="https://twitter.com/ericbrasiln">Twitter - @ericbrasiln</a>
+* <a href="https://www.instagram.com/profericbrasil/"> Instagram - profericbrasil</a>
+* <a href="https://ericbrasiln.github.io/"> Site</a>
+* <a href= "https://github.com/ericbrasiln/"> Github</a>
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -109,11 +89,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
