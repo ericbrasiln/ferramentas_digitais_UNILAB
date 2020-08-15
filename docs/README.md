@@ -1,6 +1,6 @@
 # FERRAMENTAS DE DIGITAIS E A PESQUISA EM HUMANIDADES
 
-<img src="docs/LOGO-HISTÓRIA-BA-novo.png", alt="logo história"/>
+<img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" />
 
 ## EMENTA
 
@@ -9,9 +9,9 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Cronograma](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/Cronograma.html).
+[Cronograma](/Cronograma.html).
 
-[Plano de Ensino](https://github.com/ericbrasiln/ferramentas_digitais_UNILAB/docs/plano-de-ensino.html).
+[Plano de Ensino](plano-de-ensino.html).
 
 
 ### Header 3
