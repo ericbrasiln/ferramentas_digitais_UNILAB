@@ -1,4 +1,4 @@
-<div align="center"><img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" height="200" width="200"/></div>
+<div align="center"><img src="banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
 # Ferramentas Digitais e a Pesquisa em Humanidades
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
@@ -179,4 +179,4 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
 
-[Voltar para o início](#Ferramentas-Digitais-e-a-Pesquisa-em-Humanidades)
+[Voltar para o início](#ferramentas-digitais-e-a-pesquisa-em-humanidades)
