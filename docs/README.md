@@ -178,3 +178,5 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
+
+[Voltar para o início](#Ferramentas-Digitais-e-a-Pesquisa-em-Humanidades)
