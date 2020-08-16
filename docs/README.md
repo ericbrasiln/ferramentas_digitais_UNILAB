@@ -15,7 +15,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ## Índice
 
-- [Ementa](#ementa)
+- [Ementa](#Ementa)
 - [Metodologias de ensino](#metodologias-de-ensino:)
     - [Módulos](#módulos:)
     - [Recursos Didáticos](#recursos-didáticos)
@@ -38,6 +38,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 >O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 >
+
 ***
 
 ## Metodologias de ensino:
@@ -86,6 +87,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ## Plano de ensino
 [Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html).
+
 ***
 
 ## Bibliografia
