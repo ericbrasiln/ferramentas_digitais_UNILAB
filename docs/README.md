@@ -1,4 +1,4 @@
-<div align="center"><img src="banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+<div align="center"><img src="LOGO-HISTÓRIA-BA-novo.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB" height="200" width="200"/></div>
 
 # Ferramentas Digitais e a Pesquisa em Humanidades
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
@@ -15,20 +15,20 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ## Índice
 
-- [Ementa](#Ementa)
+- [Ementa](#ementa)
 - [Metodologias de ensino](#metodologias-de-ensino:)
-    - [Módulos](#módulos:)
-    - [Recursos Didáticos](#recursos-didáticos)
-    - [Avaliação da aprendizagem](#avaliação-da-aprendizagem)
+    - [Módulos](#modulos:)
+    - [Recursos Didáticos](#recursos-didaticos)
+    - [Avaliação da aprendizagem](#avaliacao-da-aprendizagem)
 - [Cronograma](#cronograma)
     - [Aula 1](#aula-1)
 - [Plano de Ensino](#plano-de-ensino)
 - [Bibliografia](#bibliografia)
-    - [Bibliografia básica](#bibliografia-básica)
+    - [Bibliografia básica](#bibliografia-basica)
     - [Bibliografia complementar](#bibliografia-complementar)
     - [Bibliografia suplmentar](#bibliografia-suplementar)
-- [Links úteis](#links-úteis)
-- [Vídeos](#vídeos)
+- [Links úteis](#links-uteis)
+- [Vídeos](#videos)
 - [Contatos](#contatos)
 - [Licença](#licença)
 
