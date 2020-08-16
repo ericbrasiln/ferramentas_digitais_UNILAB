@@ -38,7 +38,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 
-<img src="https://img.icons8.com/material/24/000000/send-letter.png"/>[Volte para o Índice](#índice)
+<img src="arrow-up.png" height="24" width="24"/>[Volte para o Índice](#índice)
 
 ***
 
