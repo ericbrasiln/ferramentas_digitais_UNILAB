@@ -38,7 +38,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 
-<img src="arrow-up.png" height="24" width="24"/>[Volte para o Índice](#índice)
+<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
@@ -67,6 +67,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 - O/a discente terá quatro atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
 - Os prazos estão definidos no cronograma do curso.
 
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
 ***
 ## Cronograma
 [Clique aqui para acessar a página com o cronograma do curso.](Cronograma.html)
@@ -86,10 +88,14 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 | Caracterizar o campo das humanidades digitais | - Breve apresentação dos conceitos de tecnologia e humanidades digitais |
 |Avaliar os desafios metodológicos das ferramentas digitais na pesquisa das humanidades. | Métodos e ferramentas e seu impacto na epistemologia das humanidades.
 
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
 ***
 
 ## Plano de ensino
 [Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html).
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
@@ -132,6 +138,8 @@ ROMEIN, C. A.; KEMMAN, M.; BIRKHOLZ, J. M.; BAKER, J.; DE GRUIJTER, M.; MEROÑO�
 
 YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014
 
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
 ***
 
 ## Links úteis
@@ -155,6 +163,8 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 
 [Zotero](https://www.zotero.org/)
 
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
 ***
 
 ## Vídeos
@@ -162,6 +172,8 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 2. [Capacitação: Gerenciador de referência Zotero](https://www.youtube.com/watch?v=aJnKjsFCva0), Biblioteca Universitária UDESC.
 3. [Ferramenta de Webscraping para o site da ANPUH](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s), Oficina do LABHD-UFBA.
 4. [Tecnologia, Sociedade e Gênero](https://www.youtube.com/watch?v=J3OGleaBZWA), painel temático SOLTEC/UFRJ.
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
@@ -171,6 +183,8 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 * <a href="https://www.instagram.com/profericbrasil/"> Instagram - profericbrasil</a>
 * <a href="https://ericbrasiln.github.io/"> Site</a>
 * <a href= "https://github.com/ericbrasiln/"> Github</a>
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
