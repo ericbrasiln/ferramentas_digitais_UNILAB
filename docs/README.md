@@ -16,19 +16,19 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 ## Índice
 
 - [Ementa](#ementa)
-- [Metodologias de ensino](#metodologias-de-ensino:)
-    - [Módulos](#modulos:)
-    - [Recursos Didáticos](#recursos-didaticos)
-    - [Avaliação da aprendizagem](#avaliacao-da-aprendizagem)
+- [Metodologias de ensino](#metodologias-de-ensino)
+    - [Módulos](#módulos)
+    - [Recursos Didáticos](#recursos-didáticos)
+    - [Avaliação da aprendizagem](#avaliação-da-aprendizagem)
 - [Cronograma](#cronograma)
     - [Aula 1](#aula-1)
 - [Plano de Ensino](#plano-de-ensino)
 - [Bibliografia](#bibliografia)
-    - [Bibliografia básica](#bibliografia-basica)
+    - [Bibliografia básica](#bibliografia-básica)
     - [Bibliografia complementar](#bibliografia-complementar)
     - [Bibliografia suplmentar](#bibliografia-suplementar)
-- [Links úteis](#links-uteis)
-- [Vídeos](#videos)
+- [Links úteis](#links-úteis)
+- [Vídeos](#vídeos)
 - [Contatos](#contatos)
 - [Licença](#licença)
 
@@ -70,7 +70,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ## Cronograma
 [Clique aqui para acessar a página com o cronograma do curso.](Cronograma.html)
 
-### Aula 01 - _Apresentação + Conceitos e história_
+### Aula 01
+**Tema:** _Apresentação + Conceitos e história_
+
 **Tipo**: Síncrona
 
 **CH**: 1 hora
