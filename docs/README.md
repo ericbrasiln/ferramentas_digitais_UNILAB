@@ -88,12 +88,17 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 | Caracterizar o campo das humanidades digitais | - Breve apresentação dos conceitos de tecnologia e humanidades digitais |
 |Avaliar os desafios metodológicos das ferramentas digitais na pesquisa das humanidades. | Métodos e ferramentas e seu impacto na epistemologia das humanidades.
 
+**Bibliografia**: 
+- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810)); ([link direto - pdf](textos/20170801.pdf)).
+- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901)); ([link direto - pdf](textos/2065-4533-1-PB.pdf)).
+
+
 [<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
 ## Plano de ensino
-[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html).
+[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html)
 
 [<img src="arrow-up.png" height="24" width="24">](#índice)
 
