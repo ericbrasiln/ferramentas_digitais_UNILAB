@@ -21,7 +21,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
     - [Recursos Didáticos](#recursos-didáticos)
     - [Avaliação da aprendizagem](#avaliação-da-aprendizagem)
 - [Cronograma](#cronograma)
-    - [Aula 1](#aula-01)
+    - [Módulo 1](#módulo-1)
 - [Plano de Ensino](#plano-de-ensino)
 - [Bibliografia](#bibliografia)
     - [Bibliografia básica](#bibliografia-básica)
@@ -79,9 +79,11 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 ## Cronograma
-[Clique aqui para acessar a página com o cronograma do curso.](Cronograma.html)
+[Clique aqui para acessar a página com o cronograma geral do curso.](Cronograma.html)
 
-### Aula 01
+### Módulo 1: Definições, limites e possibilidades do campo das Humanidades digitais
+
+#### Aula 01
 **Data:** 25/08/2020
 
 **Tema:** _Apresentação + Conceitos e história_
@@ -99,15 +101,12 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |Avaliar os desafios metodológicos das ferramentas digitais na pesquisa das humanidades. | Métodos e ferramentas e seu impacto na epistemologia das humanidades.
 
 **Bibliografia**: 
-- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810); [link direto - pdf](textos/20170801.pdf)).
-- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901); [link direto - pdf](textos/2065-4533-1-PB.pdf)).
-
-
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810) - [link direto - pdf](textos/20170801.pdf)).
+- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901) - [link direto - pdf](textos/2065-4533-1-PB.pdf)).
 
 ***
 
-### Atividade 1
+#### Atividade 1
 **Tema:** _Recursos digitais na graduação_
 
 **Tipo**: Assíncrona
@@ -116,11 +115,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Descrição**: _em breve_
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
-
 ***
 
-### Plantão 1
+#### Plantão 1
 **Data:** 28/08/2020
 
 **Tema:** _Dúvidas do primeiro módulo_
@@ -131,11 +128,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Plataforma**: `Google Meet`
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
-
 ***
 
-### Vídeo 1
+#### Vídeo 1
 **Tema:** _Quem tem medo dos métodos digitais de pesquisa?_, Congresso Virtual da UFBA 2020
 
 **Tipo**: Assíncrona
@@ -145,6 +140,29 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s)
 
 [<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+### Módulo 2: Levantamento e gerenciamento bibliográfico.
+
+#### Aula 2
+**Data:** --/08/2020
+
+**Tema:** _Gerenciamento Bibliográfico on-line_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+|Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line | - Apresenteção de diferentes ferramentes e suas funções na pesquisa; <br> - Apresentação do Zotero |
+
+**Bibliografia**: 
+- YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. 
+ ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt) - [link direto - pdf](textos/0103-3786.pdf)).
 
 ***
 
