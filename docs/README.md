@@ -70,10 +70,20 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 [<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
+
+## Plano de ensino
+[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html)
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
 ## Cronograma
 [Clique aqui para acessar a página com o cronograma do curso.](Cronograma.html)
 
 ### Aula 01
+**Data:** 25/08/2020
+
 **Tema:** _Apresentação + Conceitos e história_
 
 **Tipo**: Síncrona
@@ -89,16 +99,50 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |Avaliar os desafios metodológicos das ferramentas digitais na pesquisa das humanidades. | Métodos e ferramentas e seu impacto na epistemologia das humanidades.
 
 **Bibliografia**: 
-- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810)); ([link direto - pdf](textos/20170801.pdf)).
-- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901)); ([link direto - pdf](textos/2065-4533-1-PB.pdf)).
+- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810); [link direto - pdf](textos/20170801.pdf)).
+- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901); [link direto - pdf](textos/2065-4533-1-PB.pdf)).
 
 
 [<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
-## Plano de ensino
-[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html)
+### Atividade 1
+**Tema:** _Recursos digitais na graduação_
+
+**Tipo**: Assíncrona
+
+**CH**: 6 hora
+
+**Descrição**: _em breve_
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+### Plantão 1
+**Data:** 28/08/2020
+
+**Tema:** _Dúvidas do primeiro módulo_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+### Vídeo 1
+**Tema:** _Quem tem medo dos métodos digitais de pesquisa?_, Congresso Virtual da UFBA 2020
+
+**Tipo**: Assíncrona
+
+**CH**: 2 hora
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s)
 
 [<img src="arrow-up.png" height="24" width="24">](#índice)
 
