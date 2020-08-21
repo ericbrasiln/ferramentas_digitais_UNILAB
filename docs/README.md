@@ -20,10 +20,12 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
     - [Módulos](#módulos)
     - [Recursos Didáticos](#recursos-didáticos)
     - [Avaliação da aprendizagem](#avaliação-da-aprendizagem)
+- [Plano de Ensino](#plano-de-ensino)
 - [Cronograma](#cronograma)
     - [Módulo 1](#módulo-1-definições-limites-e-possibilidades-do-campo-das-humanidades-digitais)
     - [Módulo 2](#módulo-2-levantamento-e-gerenciamento-bibliográfico)
-- [Plano de Ensino](#plano-de-ensino)
+    - [Módulo 3](#módulo-3-arquivos-acervos-e-bibliotecas-virtuais)
+    - [Módulo 4](#módulo-4-programação-algoritmos-e-a-sociedade-digital)
 - [Bibliografia](#bibliografia)
     - [Bibliografia básica](#bibliografia-básica)
     - [Bibliografia complementar](#bibliografia-complementar)
@@ -219,8 +221,6 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Link**: [You Tube](https://www.youtube.com/watch?v=aJnKjsFCva0)
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
-
 ***
 
 #### Aula 4
@@ -277,6 +277,173 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **CH**: 6 horas
 
 **Entrega**: 25/09/2020
+
+**Descrição**: _em breve_
+
+***
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+### Módulo 3: Arquivos, Acervos e Bibliotecas virtuais.
+
+#### Aula 5
+**Data:** 22/09/2020
+
+**Tema:** _Acessando fontes on-line: o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+|Discutir a elaboração, manutenção, acesso e preservação de coleções, repositórios e plataformas on-line de fontes históricas | - Apresentar e usar a [Hemeroteca Digital Brasileira](http://memoria.bn.br/hdb/periodico.aspx). |
+
+**Bibliografia**: 
+- BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. _Revista Estudos Históricos_, v. 33, n. 69, p. 196–219, 1 jan. 2020. ([Link original](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933) - [link direto - pdf](textos/História-Digital-REH.pdf)).
+
+***
+
+#### Atividade 5
+**Tema:** _Usando a HDB_
+
+**Tipo**: Assíncrona
+
+**CH**: 4 horas
+
+**Entrega**: -
+
+**Descrição**: _em breve_
+
+***
+
+#### Plantão 4
+**Data:** 25/08/2020
+
+**Tema:** _Dúvidas sobre Acervos e repositórios de fontes on-line_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Atividade 6
+**Tema:** _Explorando acervos_
+
+**Tipo**: Assíncrona
+
+**CH**: 4 horas
+
+**Entrega**: -
+
+**Descrição**: _em breve_
+
+***
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+### Módulo 4: Programação, Algoritmos e a “Sociedade Digital”.
+
+#### Aula 06
+**Data:** 29/09/2020
+
+**Tema:** _Linguagem de Programação para a pesquisa: uma introdução_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+| Desenvolver competências teórico-metodológicas e técnicas para utilização de ferramentas digitais na pesquisa | - Apresentação à raspagem de dados (web scraping) com Python 3 e BeautifulSoup4 |
+
+**Bibliografia**: 
+- KARTHIKEYAN T.; SEKARAN, K.; RANJITH D.; VINOTH KUMAR V.; BALAJEE J M. Personalized Content Extraction and Text Classification Using Effective Web Scraping Techniques: International Journal of Web Portals, v. 11, n. 2, p. 41–52, jul. 2019. ([Link original](https://www.igi-global.com/gateway/article/240663) - [link direto-pdf](textos/10.4018.pdf)).
+- MARRES, N.; WELTEVREDE, E. Scraping the Social? Journal of Cultural Economy, v. 6, n. 3, p. 313–335, 1 ago. 2013. ([Link original](https://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070) - [link direto-pdf](textos/Scraping-the-Social.pdf)).
+- WIERINGA, J. Intro to Beautiful Soup. _Programming Historian_, 30 dez. 2012. ([Link](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)).
+
+***
+
+#### Evento 1
+**Data:** 02/10/2020
+
+**Tema:** _Raspagem e análise de dados do Twitter (convidado)_
+
+**Tipo**: Síncrona
+
+**CH**: 2 horas
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Vídeo 3
+**Tema:** _Oficina Web scraping com Python_, LABHD-UFBA
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s)
+
+***
+
+#### Evento 2
+**Data:** 09/10/2020
+
+**Tema:** _Algoritmos (convidado)_
+
+**Tipo**: Síncrona
+
+**CH**: 2 horas
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Vídeo 4
+**Tema:** _Tecnologia, Raça e Gênero_
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=J3OGleaBZWA)
+
+***
+
+#### Plantão 5
+**Data:** 09/10/2020
+
+**Tema:** _Dúvidas sobre o módulo e atividade final_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Atividade 7
+**Tema:** _Programação e pesquisa_
+
+**Tipo**: Assíncrona
+
+**CH**: 5 horas
+
+**Entrega**: 20/10/2021
 
 **Descrição**: _em breve_
 
