@@ -112,7 +112,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 6 hora
+**CH**: 6 horas
 
 **Descrição**: _em breve_
 
@@ -136,7 +136,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 2 hora
+**CH**: 2 horas
 
 **Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s)
 
@@ -147,7 +147,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ### Módulo 2: Levantamento e gerenciamento bibliográfico.
 
 #### Aula 2
-**Data:** --/08/2020
+**Data:** 01/09/2020
 
 **Tema:** _Gerenciamento Bibliográfico on-line_
 
@@ -159,11 +159,130 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
-|Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line | - Apresenteção de diferentes ferramentes e suas funções na pesquisa; <br> - Apresentação do Zotero |
+|Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line | - Apresenteção de diferentes ferramentes e suas funções na pesquisa; <br> - Apresentação e instalação do Zotero. |
 
 **Bibliografia**: 
 - YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. 
  ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt) - [link direto - pdf](textos/0103-3786.pdf)).
+
+***
+
+#### Aula 3
+**Data:** 04/09/2020
+
+**Tema:** _Oficina de Zotero_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+|Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line com Zotero | - Usos e integração do Zotero. |
+
+***
+
+#### Atividade 2
+**Tema:** _Exercício de Zotero_
+
+**Tipo**: Assíncrona
+
+**CH**: 6 horas
+
+**Entrega**: Entrega **11/09** via SIGAA
+
+**Descrição**: _em breve_
+
+***
+
+#### Plantão 2
+**Data:** 08/09/20
+
+**Tema:** _Dúvidas sobre Zotero_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Vídeo 2
+**Tema:** _Capacitação para uso do Zotero_, Biblioteca da UDESC
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=aJnKjsFCva0)
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
+
+***
+
+#### Aula 4
+**Data:** 11/09/2020
+
+**Tema:** _Levantamento bibliográfico on-line_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+|Desenvolver competências teórico-metodológicas para a realização de levantamento bibliográfico on-line | - Reflexão sobre a busca on-line e os impactos na pesquisa; <br>- Listar e avaliar caminhos para a busca on-line; <br>- Apresentação e uso do Google Acadêmico. |
+
+**Bibliografia**: 
+- KEMMAN, M.; KLEPPE, M.; SCAGLIOLA, S. Just Google It - Digital Research Practices of Humanities Scholars. In: Clare Mills, Michael Pidd and Esther Ward (orgs.). **Proceedings of the Digital Humanities Congress 2012**: Studies in the Digital Humanities. Sheffield: HRI Online Publications, 2014. ([Link original](https://arxiv.org/abs/1309.2434) - [link direto - pdf](textos/Just-Google-It.pdf)).
+
+***
+
+#### Atividade 3
+**Tema:** _Realizando o levantamento_
+
+**Tipo**: Assíncrona
+
+**CH**: 1 hora
+
+**Entrega**: -
+
+**Descrição**: _em breve_
+
+***
+
+#### Plantão 3
+**Data:** 18/09/20
+
+**Tema:** _Dúvidas sobre Levantamento Bibliográfico_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+***
+
+#### Atividade 4
+**Tema:** _Google Acadêmico + Zotero + Editor de Texto = Bibliografia_
+
+**Tipo**: Assíncrona
+
+**CH**: 6 horas
+
+**Entrega**: 25/09/2020
+
+**Descrição**: _em breve_
+
+***
+
+[<img src="arrow-up.png" height="24" width="24">](#índice)
 
 ***
 
