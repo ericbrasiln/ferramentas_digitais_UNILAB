@@ -1,4 +1,4 @@
-<div align="center"><img src="banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
+<div align="center"><img src="imagens/banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
 # Ferramentas Digitais e a Pesquisa em Humanidades
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
@@ -26,6 +26,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
     - [Módulo 2](#módulo-2-levantamento-e-gerenciamento-bibliográfico)
     - [Módulo 3](#módulo-3-arquivos-acervos-e-bibliotecas-virtuais)
     - [Módulo 4](#módulo-4-programação-algoritmos-e-a-sociedade-digital)
+    - [Módulo 5](#módulo-5-bônus)
 - [Bibliografia](#bibliografia)
     - [Bibliografia básica](#bibliografia-básica)
     - [Bibliografia complementar](#bibliografia-complementar)
@@ -41,15 +42,15 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Metodologias de ensino:
 O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento, e atividades assíncronas (vídeos e tarefas práticas).
 * As aulas síncronas terão uma hora de duração (sem cobrança de presença) e acontecerão entre 19h e 20h nas datas definidas no cronograma.
-* Os plantões de atendimento terão uma hora de duração (sem cobrança de presença) e tem como objetivo sanar dúvidas sobre cada módulo ou atividade. Os horários serão combinados com a turma.
-* As atividades assíncronas estão divididas entre leituras e vídeos complementares e realização de tarefas práticas. Algumas dessas tarefas devem ser entregues e servem como controle de presenças e avaliação.
+* Os plantões de atendimento terão entre 30 minutos e uma hora de duração (sem cobrança de presença) e tem como objetivo sanar dúvidas sobre cada módulo ou atividade.
+* As atividades assíncronas estão divididas entre leituras e vídeos e realização de tarefas práticas. Algumas dessas tarefas devem ser entregues e servem como controle de presenças e avaliação.
 * Todo cronograma, atividades, links, textos, vídeos e apresentações estarão disponíveis no SIGAA e no site da disciplina na primeira semana do curso.
 
 ### Módulos:
@@ -70,21 +71,32 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 - O/a discente terá quatro atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
 - Os prazos estão definidos no cronograma do curso.
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Plano de ensino
-[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html)
+[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html){:target="_blank"}.
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Cronograma
-[Clique aqui para acessar a página com o cronograma geral do curso.](Cronograma.html)
+[Clique aqui para acessar a página com o cronograma geral do curso.](Cronograma.html){:target="_blank"}
 
 ### Módulo 1: Definições, limites e possibilidades do campo das Humanidades digitais
+
+#### Fórum de apresentação e enquete
+**Data:** 24/08/2020  até 01/09/2020
+
+**Tipo**: Assíncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `SIGAA` e `Google Formulários`
+
+***
 
 #### Aula 01
 **Data:** 25/08/2020
@@ -111,8 +123,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **CH**: 4 horas
 
 **Bibliografia**: 
-- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810) - [link direto - pdf](textos/20170801.pdf)).
-- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901) - [link direto - pdf](textos/2065-4533-1-PB.pdf)).
+- TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810){:target="_blank"} - [link direto - pdf](textos/20170801.pdf){:target="_blank"}).
+- VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901){:target="_blank"} - [link direto - pdf](textos/2065-4533-1-PB.pdf){:target="_blank"}).
 
 ***
 
@@ -122,6 +134,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **Tipo**: Assíncrona
 
 **CH**: 2 horas
+
+**Entrega**: **01/09/2020** via Sigaa
 
 **Descrição**: _em breve_
 
@@ -134,7 +148,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Síncrona
 
-**CH**: 1 hora
+**CH**: 30 min
 
 **Plataforma**: `Google Meet`
 
@@ -147,9 +161,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **CH**: 2 horas
 
-**Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s)
+**Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s){:target="_blank"}
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -178,7 +192,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **CH**: 2 horas
 
 **Bibliografia**: 
-- YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt) - [link direto - pdf](textos/0103-3786.pdf)).
+- YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt){:target="_blank"} - [link direto - pdf](textos/0103-3786.pdf){:target="_blank"}).
 
 ***
 
@@ -212,19 +226,6 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Plantão 2
-**Data:** 08/09/20
-
-**Tema:** _Dúvidas sobre Zotero_
-
-**Tipo**: Síncrona
-
-**CH**: 30 min
-
-**Plataforma**: `Google Meet`
-
-***
-
 #### Vídeo 2
 **Tema:** _Capacitação para uso do Zotero_, Biblioteca da UDESC
 
@@ -232,7 +233,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **CH**: 2 horas
 
-**Link**: [You Tube](https://www.youtube.com/watch?v=aJnKjsFCva0)
+**Link**: [You Tube](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}
 
 ***
 
@@ -256,22 +257,22 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 #### Leitura:
 **Tipo**: Assíncrona
 
-**CH**: 4 horas
+**CH**: 2 horas
 
 **Bibliografia**: 
 - RONDINELLI, R. C. O conceito de documento arquivístico diante da realidade digital. IN: **O documento arquivístico ante a realidade digital**: uma revisão conceitual necessária. Rio de Janeiro: FGV, 2013. (link direto - pdf _em breve_).
-- KEMMAN, M.; KLEPPE, M.; SCAGLIOLA, S. Just Google It - Digital Research Practices of Humanities Scholars. In: Clare Mills, Michael Pidd and Esther Ward (orgs.). **Proceedings of the Digital Humanities Congress 2012**: Studies in the Digital Humanities. Sheffield: HRI Online Publications, 2014. ([Link original](https://arxiv.org/abs/1309.2434) - [link direto - pdf](textos/Just-Google-It.pdf)).
+- KEMMAN, M.; KLEPPE, M.; SCAGLIOLA, S. Just Google It - Digital Research Practices of Humanities Scholars. In: Clare Mills, Michael Pidd and Esther Ward (orgs.). **Proceedings of the Digital Humanities Congress 2012**: Studies in the Digital Humanities. Sheffield: HRI Online Publications, 2014. ([Link original](https://arxiv.org/abs/1309.2434){:target="_blank"} - [link direto - pdf](textos/Just-Google-It.pdf){:target="_blank"}).
 
 ***
 
-#### Plantão 3
+#### Plantão 2
 **Data:** 18/09/20
 
 **Tema:** _Dúvidas sobre Levantamento Bibliográfico_
 
 **Tipo**: Síncrona
 
-**CH**: 30 min
+**CH**: 1h
 
 **Plataforma**: `Google Meet`
 
@@ -282,15 +283,15 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 4 horas
+**CH**: 6 horas
 
-**Entrega**: 25/09/2020
+**Entrega**: **25/09/2020** via Sigaa.
 
 **Descrição**: _em breve_
 
 ***
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -309,7 +310,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
-|Discutir a elaboração, manutenção, acesso e preservação de coleções, repositórios e plataformas on-line de fontes históricas | - Apresentar e usar a [Hemeroteca Digital Brasileira](http://memoria.bn.br/hdb/periodico.aspx). |
+|Discutir a elaboração, manutenção, acesso e preservação de coleções, repositórios e plataformas on-line de fontes históricas | - Apresentar e usar a [Hemeroteca Digital Brasileira](http://memoria.bn.br/hdb/periodico.aspx){:target="_blank"}. |
 
 ***
 
@@ -319,7 +320,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **CH**: 2 horas
 
 **Bibliografia**: 
-- BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. _Revista Estudos Históricos_, v. 33, n. 69, p. 196–219, 1 jan. 2020. ([Link original](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933) - [link direto - pdf](textos/História-Digital-REH.pdf)).
+- BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. _Revista Estudos Históricos_, v. 33, n. 69, p. 196–219, 1 jan. 2020. ([Link original](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933){:target="_blank"} - [link direto - pdf](textos/História-Digital-REH.pdf){:target="_blank"}).
 
 ***
 
@@ -328,7 +329,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 2 horas e 30 min
+**CH**: 2 horas
 
 **Entrega**: -
 
@@ -336,7 +337,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Plantão 4
+#### Plantão 3
 **Data:** 25/08/2020
 
 **Tema:** _Dúvidas sobre Acervos e repositórios de fontes on-line_
@@ -354,7 +355,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 4 horas
+**CH**: 2 horas
 
 **Entrega**: -
 
@@ -362,7 +363,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -371,7 +372,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 #### Aula 06
 **Data:** 29/09/2020
 
-**Tema:** _Linguagem de Programação para a pesquisa: uma introdução_
+**Tema:** _Linguagem de Programação e algoritmos: uma introdução_
 
 **Tipo**: Síncrona
 
@@ -385,18 +386,47 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Leitura complementar:
+#### Leitura:
 **Tipo**: Assíncrona
 
-**Bibliografia**: 
-- KARTHIKEYAN T.; SEKARAN, K.; RANJITH D.; VINOTH KUMAR V.; BALAJEE J M. Personalized Content Extraction and Text Classification Using Effective Web Scraping Techniques: International Journal of Web Portals, v. 11, n. 2, p. 41–52, jul. 2019. ([Link original](https://www.igi-global.com/gateway/article/240663) - [link direto-pdf](textos/10.4018.pdf)).
-- MARRES, N.; WELTEVREDE, E. Scraping the Social? Journal of Cultural Economy, v. 6, n. 3, p. 313–335, 1 ago. 2013. ([Link original](https://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070) - [link direto-pdf](textos/Scraping-the-Social.pdf)).
-- WIERINGA, J. Intro to Beautiful Soup. _Programming Historian_, 30 dez. 2012. ([Link](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)).
+**CH**: 4 horas
+
+**Bibliografia - Algoritmos**: 
+- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original]{:target="_blank"}(https://script-ed.org/article/algorithmic-colonization-of-africa/) - [link direto-pdf](textos/Birhane.pdf{:target="_blank"}). 
+- SILVA, T. Racismo Algorítmico em plataformas digitais: microagressões e discriminação em código. In: SILVA, T (org.). **Comunidades, Algoritmos e Ativismos Digitais**: Olhares Afrodiaspóricos. São Paulo: LiteraRUA, 2020. 
+(link direto-pdf _em breve_).
+
+**Bibliografia - Programação e raspagem**: 
+- KARTHIKEYAN T.; SEKARAN, K.; RANJITH D.; VINOTH KUMAR V.; BALAJEE J M. Personalized Content Extraction and Text Classification Using Effective Web Scraping Techniques: International Journal of Web Portals, v. 11, n. 2, p. 41–52, jul. 2019. ([Link original](https://www.igi-global.com/gateway/article/240663){:target="_blank"} - [link direto-pdf](textos/10.4018.pdf){:target="_blank"}).
+- MARRES, N.; WELTEVREDE, E. Scraping the Social? Journal of Cultural Economy, v. 6, n. 3, p. 313–335, 1 ago. 2013. ([Link original](https://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070){:target="_blank"} - [link direto-pdf](textos/Scraping-the-Social.pdf){:target="_blank"}).
+- WIERINGA, J. Intro to Beautiful Soup. _Programming Historian_, 30 dez. 2012. ([Link](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup){:target="_blank"}).
+
+***
+
+#### Vídeo 3
+**Tema:** _Oficina Web scraping com Python_, LABHD-UFBA
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s){:target="_blank"}
+
+***
+
+#### Vídeo 4
+**Tema:** _Tecnologia, Raça e Gênero_
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=J3OGleaBZWA){:target="_blank"}
 
 ***
 
 #### Evento 1
-**Data:** 02/10/2020
+**Data:** 06/10/2020
 
 **Tema:** _Raspagem e análise de dados do Twitter (convidado)_
 
@@ -408,53 +438,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Vídeo 3
-**Tema:** _Oficina Web scraping com Python_, LABHD-UFBA
-
-**Tipo**: Assíncrona
-
-**CH**: 2 horas
-
-**Link**: [You Tube](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s)
-
-***
-
-#### Leitura:
-**Tipo**: Assíncrona
-
-**CH**: 2 horas
-
-**Bibliografia**: 
-- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/) - [link direto-pdf](textos/Birhane.pdf)). 
-- SILVA, T. Racismo Algorítmico em plataformas digitais: microagressões e discriminação em código. In: SILVA, T (org.). **Comunidades, Algoritmos e Ativismos Digitais**: Olhares Afrodiaspóricos. São Paulo: LiteraRUA, 2020. 
-(link direto-pdf _em breve_).
-
-#### Evento 2
-**Data:** 09/10/2020
-
-**Tema:** _Algoritmos (convidado)_
-
-**Tipo**: Síncrona
-
-**CH**: 2 horas
-
-**Plataforma**: `Google Meet`
-
-***
-
-#### Vídeo 4
-**Tema:** _Tecnologia, Raça e Gênero_
-
-**Tipo**: Assíncrona
-
-**CH**: 2 horas
-
-**Link**: [You Tube](https://www.youtube.com/watch?v=J3OGleaBZWA)
-
-***
-
-#### Plantão 5
-**Data:** 09/10/2020
+#### Plantão 4
+**Data:** 13/10/2020
 
 **Tema:** _Dúvidas sobre o módulo e atividade final_
 
@@ -467,19 +452,55 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 #### Atividade 6
-**Tema:** _Programação e pesquisa_
+**Tema:** _Programação, algoritmos e pesquisa_
 
 **Tipo**: Assíncrona
 
-**CH**: 5 horas
+**CH**: 6 horas
 
-**Entrega**: 20/10/2021 via Sigaa
+**Entrega**: **20/10/2021** via Sigaa
 
 **Descrição**: _em breve_
 
 ***
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
+***
+
+### Módulo 5: Bônus.
+
+#### Aula 07
+**Data:** 20/10/2020
+
+**Tema:** _A definir_
+
+**Tipo**: Síncrona
+
+**CH**: 1 hora
+
+**Plataforma**: `Google Meet`
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+| a definir | a definir |
+
+***
+
+#### Atividade 7
+**Tema:** _A definir_
+
+**Tipo**: Assíncrona
+
+**CH**: 3 horas
+
+**Entrega**: -
+
+**Descrição**: _em breve_
+
+***
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -522,53 +543,53 @@ ROMEIN, C. A.; KEMMAN, M.; BIRKHOLZ, J. M.; BAKER, J.; DE GRUIJTER, M.; MEROÑO�
 
 YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Links úteis
-[Laboratório de Humanidades Digitais da UFBA (LABHD-UFBA)](http://www.labhd.ufba.br/)
+[Laboratório de Humanidades Digitais da UFBA (LABHD-UFBA)](http://www.labhd.ufba.br/){:target="_blank"}
 
-[Laboratório em Rede em Humanidades Digitais do IBICT/UFRJ](http://www.larhud.ibict.br/)
+[Laboratório em Rede em Humanidades Digitais do IBICT/UFRJ](http://www.larhud.ibict.br/){:target="_blank"}
 
-[Laboratório de Humanidades Digitais (LhuD) da FGV](https://cpdoc.fgv.br/laboratorios/lhud)
+[Laboratório de Humanidades Digitais (LhuD) da FGV](https://cpdoc.fgv.br/laboratorios/lhud){:target="_blank"}
 
-[Wiki de Ferramentas Digitais (LARHUD e LABHDH-UFBA)](http://www.larhud.ibict.br/index.php?title=Ferramentas)
+[Wiki de Ferramentas Digitais (LARHUD e LABHDH-UFBA)](http://www.larhud.ibict.br/index.php?title=Ferramentas){:target="_blank"}
 
-[Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/)
+[Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/){:target="_blank"}
 
-[Páginas de ferramentas do MediaLab do SciencePo](https://medialab.sciencespo.fr/en/tools/)
+[Páginas de ferramentas do MediaLab do SciencePo](https://medialab.sciencespo.fr/en/tools/){:target="_blank"}
 
-[The Programming Historian](https://programminghistorian.org/en/)
+[The Programming Historian](https://programminghistorian.org/en/){:target="_blank"}
 
-[Mestrado em Humanidades Digitais da UFRRJ](https://www.dcc.ufrrj.br/ppgihd/)
+[Mestrado em Humanidades Digitais da UFRRJ](https://www.dcc.ufrrj.br/ppgihd/){:target="_blank"}
 
-[Blog Divaloper: “Aprenda programar de graça on-line”](https://divaloper.com.br/2019/12/06/aprenda-a-programar-de-graca-e-online/)
+[Blog Divaloper: “Aprenda programar de graça on-line”](https://divaloper.com.br/2019/12/06/aprenda-a-programar-de-graca-e-online/){:target="_blank"}
 
-[Zotero](https://www.zotero.org/)
+[Zotero](https://www.zotero.org/){:target="_blank"}
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Vídeos
-1. [Quem tem medo dos métodos digitais de pesquisa?](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s), Congresso virtual da UFBA 2020.
-2. [Capacitação: Gerenciador de referência Zotero](https://www.youtube.com/watch?v=aJnKjsFCva0), Biblioteca Universitária UDESC.
-3. [Ferramenta de Webscraping para o site da ANPUH](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s), Oficina do LABHD-UFBA.
-4. [Tecnologia, Sociedade e Gênero](https://www.youtube.com/watch?v=J3OGleaBZWA), painel temático SOLTEC/UFRJ.
+1. [Quem tem medo dos métodos digitais de pesquisa?](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s){:target="_blank"}, Congresso virtual da UFBA 2020.
+2. [Capacitação: Gerenciador de referência Zotero](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}, Biblioteca Universitária UDESC.
+3. [Ferramenta de Webscraping para o site da ANPUH](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s){:target="_blank"}, Oficina do LABHD-UFBA.
+4. [Tecnologia, Sociedade e Gênero](https://www.youtube.com/watch?v=J3OGleaBZWA){:target="_blank"}, painel temático SOLTEC/UFRJ.
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Contatos
 * E-mail: profericbrasil@unilab.edu.br
-* <a href="https://twitter.com/ericbrasiln">Twitter - @ericbrasiln</a>
-* <a href="https://www.instagram.com/profericbrasil/"> Instagram - profericbrasil</a>
-* <a href="https://ericbrasiln.github.io/"> Site</a>
-* <a href= "https://github.com/ericbrasiln/"> Github</a>
+* <a href="https://twitter.com/ericbrasiln" target="_blank">Twitter - @ericbrasiln</a>
+* <a href="https://www.instagram.com/profericbrasil/" target="_blank"> Instagram - profericbrasil</a>
+* <a href="https://ericbrasiln.github.io/" target="_blank"> Site</a>
+* <a href= "https://github.com/ericbrasiln/" target="_blank"> Github</a>
 
-[<img src="arrow.png" height="24" width="24">](#índice)
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ***
 
