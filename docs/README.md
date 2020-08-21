@@ -41,7 +41,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 O campo das humanidades digitais: definições, limites e possibilidades. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino das humanidades: levantamento bibliográfico on-line, repositórios de fontes, bibliotecas e hemerotecas digitais, gerenciadores de referências. Programação e webscraping na pesquisa em humanidades. Algoritmos e Redes sociais: Reflexões sobre raça, classe e gênero em sociedades digitais.
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -70,14 +70,14 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 - O/a discente terá quatro atividades assíncronas que devem ser entregues pelo SIGAA ao longo do curso;
 - Os prazos estão definidos no cronograma do curso.
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
 ## Plano de ensino
 [Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html)
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -103,6 +103,13 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 | Caracterizar o campo das humanidades digitais | - Breve apresentação dos conceitos de tecnologia e humanidades digitais |
 |Avaliar os desafios metodológicos das ferramentas digitais na pesquisa das humanidades. | Métodos e ferramentas e seu impacto na epistemologia das humanidades.
 
+***
+
+#### Leitura:
+**Tipo**: Assíncrona
+
+**CH**: 4 horas
+
 **Bibliografia**: 
 - TELLES, H. V. História Digital, Sociologia Digital e Humanidades Digitais: Algumas questões metodológicas. _Revista Observatório_, v. 3, n. 5, p. 74, 1 ago. 2017. ([Link original - vários formatos](https://sistemas.uft.edu.br/periodicos/index.php/observatorio/article/view/3810) - [link direto - pdf](textos/20170801.pdf)).
 - VERASZTO, E. V.; SILVA, D. DA; MIRANDA, N. A.; SIMON, F. O. Tecnologia: buscando uma definição para o conceito. _PRISMA.COM_, v. 0, n. 8, p. 19–46, 5 abr. 2009. ([Link original](http://ojs.letras.up.pt/index.php/prismacom/article/view/2065/1901) - [link direto - pdf](textos/2065-4533-1-PB.pdf)).
@@ -114,7 +121,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 6 horas
+**CH**: 2 horas
 
 **Descrição**: _em breve_
 
@@ -142,7 +149,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Link**: [You Tube](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s)
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -163,9 +170,15 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |:--------------------|:------------------|
 |Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line | - Apresenteção de diferentes ferramentes e suas funções na pesquisa; <br> - Apresentação e instalação do Zotero. |
 
+***
+
+#### Leitura:
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
 **Bibliografia**: 
-- YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. 
- ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt) - [link direto - pdf](textos/0103-3786.pdf)).
+- YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014. ([Link original](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-37862014000200167&lng=pt&tlng=pt) - [link direto - pdf](textos/0103-3786.pdf)).
 
 ***
 
@@ -191,9 +204,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
-**CH**: 6 horas
+**CH**: 4 horas
 
-**Entrega**: Entrega **11/09** via SIGAA
+**Entrega**: **11/09** via SIGAA
 
 **Descrição**: _em breve_
 
@@ -206,7 +219,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Síncrona
 
-**CH**: 1 hora
+**CH**: 30 min
 
 **Plataforma**: `Google Meet`
 
@@ -238,21 +251,16 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |:--------------------|:------------------|
 |Desenvolver competências teórico-metodológicas para a realização de levantamento bibliográfico on-line | - Reflexão sobre a busca on-line e os impactos na pesquisa; <br>- Listar e avaliar caminhos para a busca on-line; <br>- Apresentação e uso do Google Acadêmico. |
 
-**Bibliografia**: 
-- KEMMAN, M.; KLEPPE, M.; SCAGLIOLA, S. Just Google It - Digital Research Practices of Humanities Scholars. In: Clare Mills, Michael Pidd and Esther Ward (orgs.). **Proceedings of the Digital Humanities Congress 2012**: Studies in the Digital Humanities. Sheffield: HRI Online Publications, 2014. ([Link original](https://arxiv.org/abs/1309.2434) - [link direto - pdf](textos/Just-Google-It.pdf)).
-
 ***
 
-#### Atividade 3
-**Tema:** _Realizando o levantamento_
-
+#### Leitura:
 **Tipo**: Assíncrona
 
-**CH**: 1 hora
+**CH**: 4 horas
 
-**Entrega**: -
-
-**Descrição**: _em breve_
+**Bibliografia**: 
+- RONDINELLI, R. C. O conceito de documento arquivístico diante da realidade digital. IN: **O documento arquivístico ante a realidade digital**: uma revisão conceitual necessária. Rio de Janeiro: FGV, 2013. (link direto - pdf _em breve_).
+- KEMMAN, M.; KLEPPE, M.; SCAGLIOLA, S. Just Google It - Digital Research Practices of Humanities Scholars. In: Clare Mills, Michael Pidd and Esther Ward (orgs.). **Proceedings of the Digital Humanities Congress 2012**: Studies in the Digital Humanities. Sheffield: HRI Online Publications, 2014. ([Link original](https://arxiv.org/abs/1309.2434) - [link direto - pdf](textos/Just-Google-It.pdf)).
 
 ***
 
@@ -263,18 +271,18 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Síncrona
 
-**CH**: 1 hora
+**CH**: 30 min
 
 **Plataforma**: `Google Meet`
 
 ***
 
-#### Atividade 4
+#### Atividade 3
 **Tema:** _Google Acadêmico + Zotero + Editor de Texto = Bibliografia_
 
 **Tipo**: Assíncrona
 
-**CH**: 6 horas
+**CH**: 4 horas
 
 **Entrega**: 25/09/2020
 
@@ -282,7 +290,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -303,17 +311,24 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |:--------------------|:------------------|
 |Discutir a elaboração, manutenção, acesso e preservação de coleções, repositórios e plataformas on-line de fontes históricas | - Apresentar e usar a [Hemeroteca Digital Brasileira](http://memoria.bn.br/hdb/periodico.aspx). |
 
+***
+
+#### Leitura:
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
 **Bibliografia**: 
 - BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. _Revista Estudos Históricos_, v. 33, n. 69, p. 196–219, 1 jan. 2020. ([Link original](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933) - [link direto - pdf](textos/História-Digital-REH.pdf)).
 
 ***
 
-#### Atividade 5
+#### Atividade 4
 **Tema:** _Usando a HDB_
 
 **Tipo**: Assíncrona
 
-**CH**: 4 horas
+**CH**: 2 horas e 30 min
 
 **Entrega**: -
 
@@ -328,13 +343,13 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Síncrona
 
-**CH**: 1 hora
+**CH**: 30 min
 
 **Plataforma**: `Google Meet`
 
 ***
 
-#### Atividade 6
+#### Atividade 5
 **Tema:** _Explorando acervos_
 
 **Tipo**: Assíncrona
@@ -347,7 +362,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -367,6 +382,11 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
 | Desenvolver competências teórico-metodológicas e técnicas para utilização de ferramentas digitais na pesquisa | - Apresentação à raspagem de dados (web scraping) com Python 3 e BeautifulSoup4 |
+
+***
+
+#### Leitura complementar:
+**Tipo**: Assíncrona
 
 **Bibliografia**: 
 - KARTHIKEYAN T.; SEKARAN, K.; RANJITH D.; VINOTH KUMAR V.; BALAJEE J M. Personalized Content Extraction and Text Classification Using Effective Web Scraping Techniques: International Journal of Web Portals, v. 11, n. 2, p. 41–52, jul. 2019. ([Link original](https://www.igi-global.com/gateway/article/240663) - [link direto-pdf](textos/10.4018.pdf)).
@@ -398,6 +418,16 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **Link**: [You Tube](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s)
 
 ***
+
+#### Leitura:
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Bibliografia**: 
+- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/) - [link direto-pdf](textos/Birhane.pdf)). 
+- SILVA, T. Racismo Algorítmico em plataformas digitais: microagressões e discriminação em código. In: SILVA, T (org.). **Comunidades, Algoritmos e Ativismos Digitais**: Olhares Afrodiaspóricos. São Paulo: LiteraRUA, 2020. 
+(link direto-pdf _em breve_).
 
 #### Evento 2
 **Data:** 09/10/2020
@@ -436,20 +466,20 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 7
+#### Atividade 6
 **Tema:** _Programação e pesquisa_
 
 **Tipo**: Assíncrona
 
 **CH**: 5 horas
 
-**Entrega**: 20/10/2021
+**Entrega**: 20/10/2021 via Sigaa
 
 **Descrição**: _em breve_
 
 ***
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -492,7 +522,7 @@ ROMEIN, C. A.; KEMMAN, M.; BIRKHOLZ, J. M.; BAKER, J.; DE GRUIJTER, M.; MEROÑO�
 
 YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. Comparativo dos softwares de gerenciamento de referências bibliográficas: Mendeley, EndNote e Zotero. _Transinformação_, v. 26, n. 2, p. 167–176, ago. 2014
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -517,7 +547,7 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 
 [Zotero](https://www.zotero.org/)
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -527,7 +557,7 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 3. [Ferramenta de Webscraping para o site da ANPUH](https://www.youtube.com/watch?v=-6IGMyw7c6E&t=26s), Oficina do LABHD-UFBA.
 4. [Tecnologia, Sociedade e Gênero](https://www.youtube.com/watch?v=J3OGleaBZWA), painel temático SOLTEC/UFRJ.
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
@@ -538,7 +568,7 @@ YAMAKAWA, E. K.; KUBOTA, F. I.; BEUREN, F. H.; SCALVENZI, L.; MIGUEL, P. A. C. C
 * <a href="https://ericbrasiln.github.io/"> Site</a>
 * <a href= "https://github.com/ericbrasiln/"> Github</a>
 
-[<img src="arrow-up.png" height="24" width="24">](#índice)
+[<img src="arrow.png" height="24" width="24">](#índice)
 
 ***
 
