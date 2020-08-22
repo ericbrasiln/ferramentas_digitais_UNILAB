@@ -96,7 +96,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO](https://forms.gle/q8HTxbKWHTi9yzKK8).***
+***[LINK PARA O FORMULÁRIO](https://forms.gle/q8HTxbKWHTi9yzKK8){:target="_blank"}.***
 
 ***
 
