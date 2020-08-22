@@ -87,14 +87,17 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ### Módulo 1: Definições, limites e possibilidades do campo das Humanidades digitais
 
-#### Fórum de apresentação e enquete
+#### Formulário de apresentação e enquete
 **Data:** 24/08/2020  até 01/09/2020
 
 **Tipo**: Assíncrona
 
 **CH**: 1 hora
 
-**Plataforma**: `SIGAA` e `Google Formulários`
+**Plataforma**: `Google Formulários`
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGNlgEddcPHvrZxFlFwfaOEMvj9196zf0mbxAR1TGqcH6yHg/viewform?embedded=true" width="640" height="1012" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+
 
 ***
 
