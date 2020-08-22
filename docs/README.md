@@ -47,10 +47,10 @@ O campo das humanidades digitais: definições, limites e possibilidades. Desafi
 ***
 
 ## Metodologias de ensino:
-O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento, e atividades assíncronas (vídeos e tarefas práticas).
+O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento, e exercícios e atividades assíncronas (vídeos, leituras e tarefas práticas).
 * As aulas síncronas terão uma hora de duração (sem cobrança de presença) e acontecerão entre 19h e 20h nas datas definidas no cronograma.
 * Os plantões de atendimento terão entre 30 minutos e uma hora de duração (sem cobrança de presença) e tem como objetivo sanar dúvidas sobre cada módulo ou atividade.
-* As atividades assíncronas estão divididas entre leituras e vídeos e realização de tarefas práticas. Algumas dessas tarefas devem ser entregues e servem como controle de presenças e avaliação.
+* As atividades assíncronas estão divididas entre leituras e vídeos e realização de exercícios práticos e quatro _atividades_. Essas _atividades_ devem ser entregues e servem como controle de presenças e avaliação.
 * Todo cronograma, atividades, links, textos, vídeos e apresentações estarão disponíveis no SIGAA e no site da disciplina na primeira semana do curso.
 
 ### Módulos:
@@ -61,7 +61,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 5. Ferramenta Bônus: a definir.
 
 ### Recursos Didáticos:
-- Google Meet;
+- Google Meet e Formulários;
 - SIGAA;
 - Site da disciplina;
 - Apresentação on-line;
@@ -96,8 +96,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Plataforma**: `Google Formulários`
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGNlgEddcPHvrZxFlFwfaOEMvj9196zf0mbxAR1TGqcH6yHg/viewform?embedded=true" width="640" height="1012" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-
+***[LINK PARA O FORMULÁRIO](https://forms.gle/q8HTxbKWHTi9yzKK8).***
 
 ***
 
@@ -110,7 +109,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **CH**: 1 hora
 
-**Plataforma**: `Google Meet`
+**Plataforma**: `Google Meet` ***O link para a sala virtual será enviada para os e-mails cadastrados no Sigaa***
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
@@ -138,7 +137,13 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **CH**: 2 horas
 
-**Entrega**: **01/09/2020** via Sigaa
+**Valor**: 2,5 pontos
+
+**Plataforma**: `Google Formulários`
+
+***[LINK PARA O FORMULÁRIO](https://forms.gle/).***
+
+**Entrega**: ***08/09/2020***
 
 **Descrição**: _em breve_
 
@@ -200,7 +205,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 #### Aula 3
-**Data:** 04/09/2020
+**Data:** 08/09/2020
 
 **Tema:** _Oficina de Zotero_
 
@@ -220,6 +225,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **Tema:** _Exercício de Zotero_
 
 **Tipo**: Assíncrona
+
+**Valor**: 2,5 pontos
 
 **CH**: 4 horas
 
@@ -241,7 +248,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 #### Aula 4
-**Data:** 11/09/2020
+**Data:** 15/09/2020
 
 **Tema:** _Levantamento bibliográfico on-line_
 
@@ -286,6 +293,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Tipo**: Assíncrona
 
+**Valor**: 2,5 pontos
+
 **CH**: 6 horas
 
 **Entrega**: **25/09/2020** via Sigaa.
@@ -327,21 +336,19 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 4
+#### Exercício prático - módulo 3
 **Tema:** _Usando a HDB_
 
 **Tipo**: Assíncrona
 
 **CH**: 2 horas
 
-**Entrega**: -
-
 **Descrição**: _em breve_
 
 ***
 
 #### Plantão 3
-**Data:** 25/08/2020
+**Data:** 25/09/2020
 
 **Tema:** _Dúvidas sobre Acervos e repositórios de fontes on-line_
 
@@ -353,14 +360,12 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 5
+#### Exercício prático - módulo 3
 **Tema:** _Explorando acervos_
 
 **Tipo**: Assíncrona
 
 **CH**: 2 horas
-
-**Entrega**: -
 
 **Descrição**: _em breve_
 
@@ -442,7 +447,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 #### Plantão 4
-**Data:** 13/10/2020
+**Data:** 09/10/2020
 
 **Tema:** _Dúvidas sobre o módulo e atividade final_
 
@@ -454,10 +459,12 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 6
+#### Atividade 2
 **Tema:** _Programação, algoritmos e pesquisa_
 
 **Tipo**: Assíncrona
+
+**Valor**: 2,5 pontos
 
 **CH**: 6 horas
 
@@ -474,7 +481,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ### Módulo 5: Bônus.
 
 #### Aula 07
-**Data:** 20/10/2020
+**Data:** 13/10/2020
 
 **Tema:** _A definir_
 
@@ -490,7 +497,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 7
+#### Exercício prático - módulo 5
 **Tema:** _A definir_
 
 **Tipo**: Assíncrona
