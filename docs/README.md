@@ -76,7 +76,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 ***
 
 ## Plano de ensino
-[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html){:target="_blank"}.
+[Clique aqui para acessar a página com o plano de ensino do curso.](plano-de-ensino.html){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -109,7 +109,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **CH**: 1 hora
 
-**Plataforma**: `Google Meet` ***O link para a sala virtual será enviada para os e-mails cadastrados no Sigaa***
+**Plataforma**: `Google Meet` ***O link para a sala virtual será enviado para os e-mails cadastrados no Sigaa***
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
@@ -141,11 +141,11 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO](https://forms.gle/J5DrqU3jHGaDYaWKA){:target="_blank"}.***
-
 **Entrega**: ***08/09/2020***
 
 **Descrição**: _Preencha o formulário sobre seus hábitos de acesso, acompanhamento de cursos, pesquisa e produção acadêmica._
+
+***[LINK PARA O FORMULÁRIO](https://forms.gle/J5DrqU3jHGaDYaWKA){:target="_blank"}.***
 
 ***
 
