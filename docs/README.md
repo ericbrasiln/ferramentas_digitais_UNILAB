@@ -9,7 +9,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 **Carga Horária**: 60 horas
 
-**Horário das aulas síncronas** (conforme cronograma): terças e sextas, 19h às 20h
+**Horário das aulas síncronas** (conforme [cronograma](#cronograma)): terças e sextas, 19h às 20h
 
 ***
 
@@ -141,11 +141,11 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO](https://forms.gle/).***
+***[LINK PARA O FORMULÁRIO](https://forms.gle/J5DrqU3jHGaDYaWKA){:target="_blank"}.***
 
 **Entrega**: ***08/09/2020***
 
-**Descrição**: _em breve_
+**Descrição**: _Preencha o formulário sobre seus hábitos de acesso, acompanhamento de cursos, pesquisa e produção acadêmica._
 
 ***
 
@@ -400,7 +400,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 **CH**: 4 horas
 
 **Bibliografia - Algoritmos**: 
-- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/){:target="_blank"} - [link direto-pdf](textos/Birhane.pdf{:target="_blank"}). 
+- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/){:target="_blank"} - [link direto-pdf](textos/Birhane.pdf){:target="_blank"}, link para versão em português em breve). 
 - SILVA, T. Racismo Algorítmico em plataformas digitais: microagressões e discriminação em código. In: SILVA, T (org.). **Comunidades, Algoritmos e Ativismos Digitais**: Olhares Afrodiaspóricos. São Paulo: LiteraRUA, 2020. 
 (link direto-pdf _em breve_).
 
@@ -459,7 +459,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Atividade 2
+#### Atividade 4
 **Tema:** _Programação, algoritmos e pesquisa_
 
 **Tipo**: Assíncrona
