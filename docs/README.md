@@ -219,6 +219,9 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |:--------------------|:------------------|
 |Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line com Zotero | - Usos e integração do Zotero. |
 
+**Material de Apoio**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPdhyKboKC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 
 #### Atividade 2
