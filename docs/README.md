@@ -219,6 +219,8 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 |:--------------------|:------------------|
 |Desenvolver competências técnicas para a realização de gerenciamento bibliográfico on-line com Zotero | - Usos e integração do Zotero. |
 
+**Apresentação**: [Clique aqui!](aula3-zotero.md)
+
 **Material de Apoio**
 
 **Zotero do Zero**: ***Tutorial de instalação do Zotero***
@@ -340,6 +342,18 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 - BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. _Revista Estudos Históricos_, v. 33, n. 69, p. 196–219, 1 jan. 2020. ([Link original](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933){:target="_blank"} - [link direto - pdf](textos/História-Digital-REH.pdf){:target="_blank"}).
 
 ***
+
+#### Vídeo complementar - módulo 3
+**Tema:** _LIVES DA BN | Ferramentas online: a Hemeroteca Digital Brasileira_
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=KbUWfeCywg4){:target="_blank"}
+
+***
+
 
 #### Exercício prático - módulo 3
 **Tema:** _Usando a HDB_
