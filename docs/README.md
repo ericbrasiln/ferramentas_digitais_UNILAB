@@ -341,6 +341,18 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
+#### Vídeo complementar - módulo 3
+**Tema:** _LIVES DA BN | Ferramentas online: a Hemeroteca Digital Brasileira_
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Link**: [You Tube](https://www.youtube.com/watch?v=KbUWfeCywg4){:target="_blank"}
+
+***
+
+
 #### Exercício prático - módulo 3
 **Tema:** _Usando a HDB_
 
