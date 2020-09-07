@@ -37,48 +37,67 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - **OBS**: Os artigos que estão com uma bolinha azul do lado significa que possuem um anexo, como por exemplo o texto completo em PDF.
 
 ## Configuração inicial: _Preferências_
+<small>(Clique nos títulos para visualizar os vídeos em nova aba)</small>
 
 **Citação**:
-- Estilos (GIF)
 
-![p](gifs/zt-p.gif)
+- [**Estilos**](gifs/zt-p.gif){:target="_blank"}
 
-- Processadores de texto (GIF)
+![p](gifs/zt-p.gif){:target="_blank"}
 
-![p2](gifs/zt-p2.gif)
+
+- [**Processadores de texto**](gifs/zt-p2.gif){:target="_blank"}
+
+![p2](gifs/zt-p2.gif){:target="_blank"}
 
 ***
 
 ## Ferramentas básicas
+![Nova Coleção](imagens/nc.png) ![ni](imagens/ni.png) ![vm](imagens/vm.png) ![nn](imagens/nn.png) ![an](imagens/an.png) ![bu](imagens/bu.png) 
 
-- ![Nova Coleção](imagens/nc.png) ***Nova Coleção***
+<small>Clique nos títulos para visualizar os vídeos em nova aba</small>
 
-![nc](gifs/zt-nc.gif)
+-[***Nova Coleção***](gifs/zt-nc.gif){:target="_blank"}
 
-- ![ni](imagens/ni.png) ***Novo Item***
-
-![ni](gifs/zt-ni.gif)
-
-- ![vm](imagens/vm.png) ***Varinha Mágica***
-
-![vm](gifs/zt-vm.gif)
-
-- ![nn](imagens/nn.png) ***Nova Nota***
-
-![nn](gifs/zt-nn.gif)
-
-- ![an](imagens/an.png) ***Adicionar Anexo***
-
-![an](gifs/zt-an.gif)
-
-- ![bu](imagens/bu.png) ***Busca Avançada***
-
-![bu](gifs/zt-bu.gif)
+![nc](gifs/zt-nc.gif){:target="_blank"}
 
 ***
 
-## Importar pesquisas de bases de dados on-line
-1. [Base Scielo](http://www.scielo.org)
+- [***Novo Item***](gifs/zt-ni.gif){:target="_blank"}
 
-![scielo](gifs/zt-scielo.gif)
+![ni](gifs/zt-ni.gif){:target="_blank"}
 
+***
+
+- [***Varinha Mágica***](gifs/zt-vm.gif){:target="_blank"}
+
+![vm](gifs/zt-vm.gif){:target="_blank"}
+
+***
+
+- [***Nova Nota***](gifs/zt-nn.gif){:target="_blank"}
+
+![nn](gifs/zt-nn.gif){:target="_blank"}
+
+***
+
+- [***Adicionar Anexo***](gifs/zt-an.gif){:target="_blank"}
+
+![an](gifs/zt-an.gif){:target="_blank"}
+
+***
+
+- [***Busca Avançada***](gifs/zt-bu.gif){:target="_blank"}
+
+![bu](gifs/zt-bu.gif){:target="_blank"}
+
+***
+
+### Importar pesquisas de bases de dados on-line
+1. [Base Scielo](http://www.scielo.org){:target="_blank"}
+
+![scielo](gifs/zt-scielo.gif){:target="_blank"}
+
+## Utilizando a extensão do Zotero em seu editor de texto
+
+<small>Continua...</small>
