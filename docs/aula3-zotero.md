@@ -18,6 +18,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 **Horário**: 19h às 20h
 
 ---
+
 ## Índice
 
 - [Apresentação](#apresentação-pra-que-serve-o-zotero)
@@ -25,22 +26,22 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - [Visão geral do software](#visão-geral-do-software)
 - [Configuração inicial](#configuração-inicial-preferências)
     - [Citação](#citação)
-        -[Estilos](#estilos)
-        -[Processadores de texto](#processadores-de-texto)
+        - [Estilos](#estilos)
+        - [Processadores de texto](#processadores-de-texto)
 - [Ferramentas básicas](#ferramentas-básicas)
-    -[Nova Coleção](#nova-coleção)
-    -[Novo Item](#novo-item)
-    -[Varinha Mágica](#varinha-mágica)
-    -[Nova Nota](#nova-nota)
-    -[Adicionar Anexo](#adicionar-anexo)
-    -[Busca Avançada](#busca-avançada)
-    -[Etiquetas](#etiquetas)
-    -[Importar pesquisas de bases de dados on-line](#importar-pesquisas-de-bases-de-dados-on-line)
-    -[Importar referências RIS](#importar-referencias-ris)
--[Utilizando a extensão do Zotero em seu editor de texto](#utilizando-a-extensão-do-zotero-em-seu-editor-de-texto)
--[Dica bônus: conectar o Zotero ao Sci-hub](#dica-bônus-conectar-o-zotero-ao-sci-hub)
--[Links úteis](#links-úteis)
--[Licença](#licença)
+    - [Nova Coleção](#nova-coleção)
+    - [Novo Item](#novo-item)
+    - [Varinha Mágica](#varinha-mágica)
+    - [Nova Nota](#nova-nota)
+    - [Adicionar Anexo](#adicionar-anexo)
+    - [Busca Avançada](#busca-avançada)
+    - [Etiquetas](#etiquetas)
+    - [Importar pesquisas de bases de dados on-line](#importar-pesquisas-de-bases-de-dados-on-line)
+    - [Importar referências RIS](#importar-referencias-ris)
+- [Utilizando a extensão do Zotero em seu editor de texto](#utilizando-a-extensão-do-zotero-em-seu-editor-de-texto)
+- [Dica bônus: conectar o Zotero ao Sci-hub](#dica-bônus-conectar-o-zotero-ao-sci-hub)
+- [Links úteis](#links-úteis)
+- [Licença](#licença)
 
 ---
 
@@ -224,7 +225,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ## Dica bônus: conectar o Zotero ao Sci-hub
 
-<p align="center>"<a href="https://sci-hub.se/" target="_blank"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a></p>
+<p align="center"><a href="https://sci-hub.se/" target="_blank"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a></p>
 
 >Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
 
@@ -270,6 +271,6 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
 
-[Voltar para o início](#ferramentas-digitais-e-a-pesquisa-em-humanidades)
+[Voltar para o início](#aula-síncrona-3---workshop-de-zotero)
 
 [Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/)
