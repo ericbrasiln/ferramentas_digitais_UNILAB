@@ -18,7 +18,31 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 **Horário**: 19h às 20h
 
 ---
+## Índice
 
+- [Apresentação](#apresentação-pra-que-serve-o-zotero)
+- [Download, instalação, criação de conta e uso da extensão no Google Chrome](#download-instalação-criação-de-conta-e-uso-da-extensão-no-google-chrome)
+- [Visão geral do software](#visão-geral-do-software)
+- [Configuração inicial](#configuração-inicial-preferências)
+    - [Citação](#citação)
+        -[Estilos](#estilos)
+        -[Processadores de texto](#processadores-de-texto)
+- [Ferramentas básicas](#ferramentas-básicas)
+    -[Nova Coleção](#nova-coleção)
+    -[Novo Item](#novo-item)
+    -[Varinha Mágica](#varinha-mágica)
+    -[Nova Nota](#nova-nota)
+    -[Adicionar Anexo](#adicionar-anexo)
+    -[Busca Avançada](#busca-avançada)
+    -[Etiquetas](#etiquetas)
+    -[Importar pesquisas de bases de dados on-line](#importar-pesquisas-de-bases-de-dados-on-line)
+    -[Importar referências RIS](#importar-referencias-ris)
+-[Utilizando a extensão do Zotero em seu editor de texto](#utilizando-a-extensão-do-zotero-em-seu-editor-de-texto)
+-[Dica bônus: conectar o Zotero ao Sci-hub](#dica-bônus-conectar-o-zotero-ao-sci-hub)
+-[Links úteis](#links-úteis)
+-[Licença](#licença)
+
+---
 
 ## Apresentação: pra que serve o Zotero?
 
@@ -28,6 +52,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - Compartilhar referências com outros/as pesquisadores/as através de bibliotecas de grupos on-line;
 - É um software livre e aberto.
 
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
 ---
 
 ## Download, instalação, criação de conta e uso da extensão no Google Chrome
@@ -35,6 +61,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 **Zotero do Zero**: ***Tutorial de instalação do Zotero***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CPdhyKboKC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
@@ -47,12 +75,18 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 3. **Informações**: Informações de cada referência, tais como título, autor, ano de publicação,  resumo e etc.
 - **OBS**: Os artigos que estão com uma bolinha azul do lado significa que possuem um anexo, como por exemplo o texto completo em PDF.
 
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
+***
+
 ## Configuração inicial: _Preferências_
 ><small>(Clique nos vídeos para visualizar em nova aba)</small>
 
-**Citação**:
+### Citação:
 
-- **Estilos**
+#### Estilos
+
+>Veja como adicionar estilos de normas específicas para utilizar em suas citações e bibliografia:
 
 <a href="gifs/zt-p.mp4" target="_blank">
     <img src="gifs/zt-p.gif" position= "absolute" height="100%" width="100%">
@@ -60,11 +94,15 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ---
 
-- **Processadores de texto**
+#### Processadores de texto
+
+>Se a extensão do Zotero não aparece no seu editor de texto, veja aqui como instalá-la pelo próprio programa:
 
 <a href="gifs/zt-p2.mp4" target="_blank">
     <img src="gifs/zt-p2.gif" position= "absolute" height="100%" width="100%">
 </a>
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
@@ -73,15 +111,19 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 <small>Clique nos vídeos para visualizar em nova aba</small>
 
-- ***Nova Coleção***
+### ***Nova Coleção***
 
-<a href="gifs/zt-nc.mp4" target="_blank">>
-    <img align="center" src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
+>Crie um nova coleção (pasta) para organizar sua biblioteca?
+
+<a href="gifs/zt-nc.mp4" target="_blank">
+    <img src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
-- ***Novo Item***
+### ***Novo Item***
+
+>Existem várias formas de incluir novos itens em sua biblioteca do Zotero. Aqui vc verá como fazer isso manualmente:
 
 <a href="gifs/zt-ni.mp4" target="_blank">
     <img src="gifs/zt-ni.gif" position= "absolute" height="100%" width="100%">
@@ -89,51 +131,74 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ---
 
-- ***Varinha Mágica***
+### ***Varinha Mágica***
 
-<a href="gifs/zt-vm.gif" target="_blank">
-<div align="center"><img src="gifs/zt-vm.gif"/></div>
+>Com o botão da Varinha Mágica vc pode inserir DOI, ISBN etc e o Zotero busca as infroamções:
+
+<a href="gifs/zt-vm.mp4" target="_blank">
+    <img src="gifs/zt-vm.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
-- ***Nova Nota***
+### ***Nova Nota***
 
-<a href="gifs/zt-nn.gif" target="_blank">
-<div align="center"><img src="gifs/zt-nn.gif"/></div>
+>As notas podem servir como breves comentários sobre um artigo, ou um fichmaneto, etc:
+
+<a href="gifs/zt-nn.mp4" target="_blank">
+    <img src="gifs/zt-nn.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
-- ***Adicionar Anexo***
+### ***Adicionar Anexo***
 
-<a href="gifs/zt-an.gif" target="_blank">
-<div align="center"><img src="gifs/zt-an.gif"/></div>
+>Muitas vezes inserimos uma referência sem um arquivo PDF. É possível adicionar posteriormente:
+
+<a href="gifs/zt-an.mp4" target="_blank">
+    <img src="gifs/zt-an.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
-- ***Busca Avançada***
+### ***Busca Avançada***
 
-<a href="gifs/zt-bu.gif" target="_blank">
-<img src="gifs/zt-bu.gif"></a>
+>Além da busca simples, direto na barra, é possível realizar buscas avançadas com vários parâmetros:
+
+<a href="gifs/zt-bu.mp4" target="_blank">
+    <img src="gifs/zt-bu.gif" position= "absolute" height="100%" width="100%">
+</a>
 
 ---
 
-- ***Etiquetas***
+### ***Etiquetas***
 
-<a href="gifs/zt-tags.gif" target="_blank">
-<div align="center"><img src="gifs/zt-tags.gif"/></div>
+>As etiquetas funcionam como marcadores ou tags que possibilitam o agrupamento de trabalhos com temáticas equivalentes e sua recuperação:
+
+<a href="gifs/zt-tags.mp4" target="_blank">
+    <img src="gifs/zt-tags.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
 ### Importar pesquisas de bases de dados on-line
-1. [Base Scielo](http://www.scielo.org){:target="_blank"}
 
-<a href="gifs/zt-scielo.gif" target="_blank">
-<div align="center"><img src="gifs/zt-scielo.gif"/></div>
+>É possível salvar resultados de buscas completas em base de dados como _Periódicos Capes, Scopus, PubMed, Web of Science_. O Zotero já cria uma nova coleção (pasta) para o resultado da busca. 
+>Aqui veremos o exemplo da base Scielo:
+
+#### [Base Scielo](http://www.scielo.org){:target="_blank"}
+
+<a href="gifs/zt-scielo.mp4" target="_blank">
+    <img src="gifs/zt-scielo.gif" position= "absolute" height="100%" width="100%">
 </a>
+
+### Importar referências RIS
+
+>Também é possível salvar referências em arquivo `.RIS` e importar para o Zotero:
+
+`Arquivo > Importar > Um arquivo(BibTex, RIS...) > Next > Selecione o arquivo`
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
@@ -144,29 +209,34 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 >Esses recursos são fundamentais para o processo de escrita acadêmica e científica. Possibilitam a inserção e edição de citações, atualização dos estilos das normas e a inclusão de bibliografia.
 
 <a href="gifs/zt-w1.mp4" target="_blank">
-    <img src="gifs/zt-w1.gif" height="80%" width="80%">
+    <img src="gifs/zt-w1.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
 
 <a href="gifs/zt-w2.mp4" target="_blank">
-    <img src="gifs/zt-w2.gif" height="80%" width="80%">
+    <img src="gifs/zt-w2.gif" position= "absolute" height="100%" width="100%">
 </a>
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
 ## Dica bônus: conectar o Zotero ao Sci-hub
 
-<a href="https://sci-hub.se/" target="_blank"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a>
+<p align="center>"<a href="https://sci-hub.se/" target="_blank"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a></p>
 
-Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
+>Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
 
-Preferências > Avançado > Editor de configurações;
+`Preferências > Avançado > Editor de configurações`
 
-Procure por:
+>Procure por:
+
 `extensions.zotero.findPDFs.resolvers`
 
-Clique com o botão direito e depois clique em `Modify`;
+>Clique com o botão direito e depois clique em:
+
+`Modify`
 
 Apague o `[]` e cole o seguinte:
 ~~~
@@ -181,6 +251,7 @@ Apague o `[]` e cole o seguinte:
 }
 ~~~
 
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
@@ -188,3 +259,17 @@ Apague o `[]` e cole o seguinte:
 * [Manual do Zotero](textos/SIMONINI-zotero.pdf){:target="_blank"}
 
 * [_Capacitação para uso do Zotero_, Biblioteca da UDESC](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
+---
+
+## Licença
+
+GNU GENERAL PUBLIC LICENSE v.3.0
+
+Copyright (C) 2020 Eric Brasil
+
+[Voltar para o início](#ferramentas-digitais-e-a-pesquisa-em-humanidades)
+
+[Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/)
