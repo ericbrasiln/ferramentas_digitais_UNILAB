@@ -5,7 +5,7 @@
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
-***
+---
 
 **Ferramentas digitais e a pesquisa em humanidades**
 
@@ -17,7 +17,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 **Horário**: 19h às 20h
 
-***
+---
+
 
 ## Apresentação: pra que serve o Zotero?
 
@@ -26,6 +27,16 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - Criar notas sobre os textos lidos;
 - Compartilhar referências com outros/as pesquisadores/as através de bibliotecas de grupos on-line;
 - É um software livre e aberto.
+
+---
+
+## Download, instalação, criação de conta e uso da extensão no Google Chrome
+
+**Zotero do Zero**: ***Tutorial de instalação do Zotero***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPdhyKboKC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 ## Visão geral do _software_
 
@@ -37,67 +48,145 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - **OBS**: Os artigos que estão com uma bolinha azul do lado significa que possuem um anexo, como por exemplo o texto completo em PDF.
 
 ## Configuração inicial: _Preferências_
-<small>(Clique nos títulos para visualizar os vídeos em nova aba)</small>
+><small>(Clique nos vídeos para visualizar em nova aba)</small>
 
 **Citação**:
 
-- [**Estilos**](gifs/zt-p.gif){:target="_blank"}
+- **Estilos**
 
-![p](gifs/zt-p.gif){:target="_blank"}
+<a href="gifs/zt-p.gif" target="_blank">
+<div align="center"><img src="gifs/zt-p.gif"/></div>
+</a>
 
+---
 
-- [**Processadores de texto**](gifs/zt-p2.gif){:target="_blank"}
+- **Processadores de texto**
 
-![p2](gifs/zt-p2.gif){:target="_blank"}
+<a href="gifs/zt-p2.gif" target="_blank">
+<div align="center"><img src="gifs/zt-p2.gif"/></div>
+</a>
 
-***
+---
 
 ## Ferramentas básicas
-![Nova Coleção](imagens/nc.png) ![ni](imagens/ni.png) ![vm](imagens/vm.png) ![nn](imagens/nn.png) ![an](imagens/an.png) ![bu](imagens/bu.png) 
+![bf](imagens/zt-bf.png)
 
-<small>Clique nos títulos para visualizar os vídeos em nova aba</small>
+<small>Clique nos vídeos para visualizar em nova aba</small>
 
--[***Nova Coleção***](gifs/zt-nc.gif){:target="_blank"}
+- ***Nova Coleção***
 
-![nc](gifs/zt-nc.gif){:target="_blank"}
+<a href="gifs/zt-nc.gif" target="_blank">
+<div align="center"><img src="gifs/zt-nc.gif"/></div>
+</a>
 
-***
+---
 
-- [***Novo Item***](gifs/zt-ni.gif){:target="_blank"}
+- ***Novo Item***
 
-![ni](gifs/zt-ni.gif){:target="_blank"}
+<a href="gifs/zt-ni.gif" target="_blank">
+<div align="center"><img src="gifs/zt-ni.gif"/></div>
+</a>
 
-***
+---
 
-- [***Varinha Mágica***](gifs/zt-vm.gif){:target="_blank"}
+- ***Varinha Mágica***
 
-![vm](gifs/zt-vm.gif){:target="_blank"}
+<a href="gifs/zt-vm.gif" target="_blank">
+<div align="center"><img src="gifs/zt-vm.gif"/></div>
+</a>
 
-***
+---
 
-- [***Nova Nota***](gifs/zt-nn.gif){:target="_blank"}
+- ***Nova Nota***
 
-![nn](gifs/zt-nn.gif){:target="_blank"}
+<a href="gifs/zt-nn.gif" target="_blank">
+<div align="center"><img src="gifs/zt-nn.gif"/></div>
+</a>
 
-***
+---
 
-- [***Adicionar Anexo***](gifs/zt-an.gif){:target="_blank"}
+- ***Adicionar Anexo***
 
-![an](gifs/zt-an.gif){:target="_blank"}
+<a href="gifs/zt-an.gif" target="_blank">
+<div align="center"><img src="gifs/zt-an.gif"/></div>
+</a>
 
-***
+---
 
-- [***Busca Avançada***](gifs/zt-bu.gif){:target="_blank"}
+- ***Busca Avançada***
 
-![bu](gifs/zt-bu.gif){:target="_blank"}
+<a href="gifs/zt-bu.gif" target="_blank">
+<div align="center"><img src="gifs/zt-bu.gif"/></div>
+</a>
 
-***
+---
+
+- ***Etiquetas***
+
+<a href="gifs/zt-tags.gif" target="_blank">
+<div align="center"><img src="gifs/zt-tags.gif"/></div>
+</a>
+
+---
 
 ### Importar pesquisas de bases de dados on-line
 1. [Base Scielo](http://www.scielo.org){:target="_blank"}
 
-![scielo](gifs/zt-scielo.gif){:target="_blank"}
+<a href="gifs/zt-scielo.gif" target="_blank">
+<div align="center"><img src="gifs/zt-scielo.gif"/></div>
+</a>
+
+---
 
 ## Utilizando a extensão do Zotero em seu editor de texto
 
-<small>Continua...</small>
+<div align="center"><img src="imagens/zt-w2.png" alt="z word" title="Print das ferramentas do Zotero no Word"/></div>
+
+>Esses recursos são fundamentais para o processo de escrita acadêmica e científica. Possibilitam a inserção e edição de citações, atualização dos estilos das normas e a inclusão de bibliografia.
+
+
+<a href="gifs/zt-w1.mp4" target="_blank">
+<div align="center"><img src="gifs/zt-w1.gif"/></div>
+</a>
+
+<a href="gifs/zt-w2.mp4" target="_blank">
+<div align="center"><img src="gifs/zt-w2.gif"/></div>
+</a>
+
+---
+
+## Dica bônus: conectar o Zotero ao Sci-hub
+
+<a href="https://sci-hub.se/">
+<div align="center"><img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"/></div>
+</a>
+
+Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
+
+Preferências > Avançado > Editor de configurações;
+
+Procure por:
+`extensions.zotero.findPDFs.resolvers`
+
+Clique com o botão direito e depois clique em `Modify`;
+
+Apague o `[]` e cole o seguinte:
+~~~
+{
+    "name":"Sci-Hub",
+    "method":"GET",
+    "url":"https://sci-hub.se/{doi}",
+    "mode":"html",
+    "selector":"#pdf",
+    "attribute":"src",
+    "automatic":true
+}
+~~~
+
+
+---
+
+## Links úteis
+* [Manual do Zotero](textos/SIMONINI-zotero.pdf){:target="_blank"}
+
+* [_Capacitação para uso do Zotero_, Biblioteca da UDESC](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}
