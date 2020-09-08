@@ -116,8 +116,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 - ***Busca Avançada***
 
 <a href="gifs/zt-bu.gif" target="_blank">
-<div align="center"><img src="gifs/zt-bu.gif"/></div>
-</a>
+<img src="gifs/zt-bu.gif"></a>
 
 ---
 
