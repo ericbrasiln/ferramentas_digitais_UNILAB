@@ -144,22 +144,24 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 >Esses recursos são fundamentais para o processo de escrita acadêmica e científica. Possibilitam a inserção e edição de citações, atualização dos estilos das normas e a inclusão de bibliografia.
 
 <a href="gifs/zt-w1.mp4" target="_blank">
-    <video controls autoplay loop>
+    <video width="440px" loop="true" autoplay="autoplay" controls muted>
         <source src="gifs/zt-w1.mp4" type="video mp4">
+    </video>
 </a>
 
 ---
 
 <a href="gifs/zt-w2.mp4" target="_blank">
-    <video controls autoplay loop>
+    <video  width="440px" loop="true" autoplay="autoplay" controls muted>
         <source src="gifs/zt-w2.mp4" type="video mp4">
+    </video>
 </a>
 
 ---
 
 ## Dica bônus: conectar o Zotero ao Sci-hub
 
-<a href="https://sci-hub.se/"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a>
+<a href="https://sci-hub.se/" target="_blank"> <img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"></a>
 
 Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
 
