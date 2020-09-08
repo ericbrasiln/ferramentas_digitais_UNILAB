@@ -134,7 +134,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ### ***Varinha Mágica***
 
->Com o botão da Varinha Mágica vc pode inserir DOI, ISBN etc e o Zotero busca as infroamções:
+>Com o botão da Varinha Mágica vc pode inserir DOI, ISBN etc e o Zotero busca as informações:
 
 <a href="gifs/zt-vm.mp4" target="_blank">
     <img src="gifs/zt-vm.gif" position= "absolute" height="100%" width="100%">
@@ -144,7 +144,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ### ***Nova Nota***
 
->As notas podem servir como breves comentários sobre um artigo, ou um fichmaneto, etc:
+>As notas podem servir como breves comentários sobre um artigo, ou um fichamento, etc:
 
 <a href="gifs/zt-nn.mp4" target="_blank">
     <img src="gifs/zt-nn.gif" position= "absolute" height="100%" width="100%">
@@ -240,6 +240,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 `Modify`
 
 Apague o `[]` e cole o seguinte:
+
 ~~~
 {
     "name":"Sci-Hub",
