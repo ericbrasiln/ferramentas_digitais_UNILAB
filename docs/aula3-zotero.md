@@ -114,7 +114,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 ### ***Nova Coleção***
 
->Crie um nova coleção (pasta) para organizar sua biblioteca?
+>Crie um nova coleção (pasta) para organizar sua biblioteca:
 
 <a href="gifs/zt-nc.mp4" target="_blank">
     <img src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
