@@ -144,17 +144,13 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 >Esses recursos são fundamentais para o processo de escrita acadêmica e científica. Possibilitam a inserção e edição de citações, atualização dos estilos das normas e a inclusão de bibliografia.
 
 <a href="gifs/zt-w1.mp4" target="_blank">
-    <video width="440px" loop="true" autoplay="autoplay" controls muted>
-        <source src="gifs/zt-w1.mp4" type="video mp4">
-    </video>
+    <img src="gifs/zt-w1.gif" height="80%" width="80%">
 </a>
 
 ---
 
 <a href="gifs/zt-w2.mp4" target="_blank">
-    <video  width="440px" loop="true" autoplay="autoplay" controls muted>
-        <source src="gifs/zt-w2.mp4" type="video mp4">
-    </video>
+    <img src="gifs/zt-w2.gif" height="80%" width="80%">
 </a>
 
 ---
