@@ -75,10 +75,8 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 - ***Nova Coleção***
 
-<a href="gifs/zt-nc.mp4" target="_blank">
-    <div align="center">
-    <img src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
-    </div>
+<a href="gifs/zt-nc.mp4" target="_blank">>
+    <img align="center" src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
