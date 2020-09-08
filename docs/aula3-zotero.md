@@ -145,18 +145,21 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 
 <a href="gifs/zt-w1.mp4" target="_blank">
-<img align="center "src="gifs/zt-w1.mp4"></a>
+<video controls autoplay loop >
+<source src="gifs/zt-w1.mp4" type="video mp4"></a>
+
+---
 
 <a href="gifs/zt-w2.mp4" target="_blank">
-<img src="gifs/zt-w2.mp4"></a>
+<video controls autoplay loop>
+<source src="gifs/zt-w2.mp4" type="video mp4"></a>
 
 ---
 
 ## Dica bônus: conectar o Zotero ao Sci-hub
 
-<a href="https://sci-hub.se/">
-<div align="center"><img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub"/></div>
-</a>
+<a href="https://sci-hub.se/"> <p align="center"><img src="imagens/sh-logo.png" alt="sh-logo" title="Logo do Sci-hub">
+</p></a>
 
 Para que o Zotero tente baixar o PDF da referência desejada utilizando o Sci-hub siga os seguintes passos:
 
