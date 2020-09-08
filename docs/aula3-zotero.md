@@ -54,10 +54,9 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 - **Estilos**
 
-<a href="gifs/zt-p.gif" target="_blank">
-<div align="center"><img src="gifs/zt-p.gif"/></div>
+<a href="gifs/zt-p.mp4" target="_blank">
+    <img src="gifs/zt-p.gif" position= "absolute" height="100%" width="100%">
 </a>
-
 ---
 
 - **Processadores de texto**
