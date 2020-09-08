@@ -57,12 +57,13 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 <a href="gifs/zt-p.mp4" target="_blank">
     <img src="gifs/zt-p.gif" position= "absolute" height="100%" width="100%">
 </a>
+
 ---
 
 - **Processadores de texto**
 
-<a href="gifs/zt-p2.gif" target="_blank">
-<div align="center"><img src="gifs/zt-p2.gif"/></div>
+<a href="gifs/zt-p2.mp4" target="_blank">
+    <img src="gifs/zt-p2.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
@@ -74,16 +75,18 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 - ***Nova Coleção***
 
-<a href="gifs/zt-nc.gif" target="_blank">
-<div align="center"><img src="gifs/zt-nc.gif"/></div>
+<a href="gifs/zt-nc.mp4" target="_blank">
+    <div align="center">
+    <img src="gifs/zt-nc.gif" position= "absolute" height="100%" width="100%">
+    </div>
 </a>
 
 ---
 
 - ***Novo Item***
 
-<a href="gifs/zt-ni.gif" target="_blank">
-<div align="center"><img src="gifs/zt-ni.gif"/></div>
+<a href="gifs/zt-ni.mp4" target="_blank">
+    <img src="gifs/zt-ni.gif" position= "absolute" height="100%" width="100%">
 </a>
 
 ---
