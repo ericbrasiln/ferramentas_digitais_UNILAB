@@ -145,12 +145,10 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 
 <a href="gifs/zt-w1.mp4" target="_blank">
-<div align="center"><img src="gifs/zt-w1.gif"/></div>
-</a>
+<img align="center "src="gifs/zt-w1.mp4"></a>
 
 <a href="gifs/zt-w2.mp4" target="_blank">
-<div align="center"><img src="gifs/zt-w2.gif"/></div>
-</a>
+<img src="gifs/zt-w2.mp4"></a>
 
 ---
 
