@@ -265,7 +265,7 @@ Material de Apoio
 
 **Entrega**: **11/09** via SIGAA
 
-**Descrição**: Acesse a [página](atividade2-zotero.md) ou baixe o [PDF](atividade2-zotero.pdf)com as informações da tarefa;
+**Descrição**: Acesse a [página](atividade2-zotero.md){:target="_blank"} ou baixe o [PDF](atividade2-zotero.pdf){:target="_blank"} com as informações da tarefa;
 
 ***
 
