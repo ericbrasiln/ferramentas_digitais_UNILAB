@@ -251,6 +251,10 @@ Material de Apoio
 
 [<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/embed/CPdhyKboKC0){:target="_blank"}
 
+**Workshop de Zotero**: usos básicos
+
+[<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/watch?v=I5ohkh5d51Y){:target="_blank"}
+
 ***
 
 #### Atividade 2
