@@ -251,6 +251,10 @@ Material de Apoio
 
 [<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/embed/CPdhyKboKC0){:target="_blank"}
 
+**Workshop de Zotero**: usos básicos
+
+[<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/watch?v=I5ohkh5d51Y){:target="_blank"}
+
 ***
 
 #### Atividade 2
@@ -296,6 +300,8 @@ Material de Apoio
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
 |Desenvolver competências teórico-metodológicas para a realização de levantamento bibliográfico on-line | - Reflexão sobre a busca on-line e os impactos na pesquisa; <br>- Listar e avaliar caminhos para a busca on-line; <br>- Apresentação e uso do Google Acadêmico. |
+
+**Apresentação**: [Clique aqui!](aula4-lev-biblio.md){:target="_blank"}
 
 ***
 
