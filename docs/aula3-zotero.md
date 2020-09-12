@@ -61,7 +61,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
 **Zotero do Zero**: ***Tutorial de instalação do Zotero***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CPdhyKboKC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/embed/CPdhyKboKC0)
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -72,18 +72,22 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 <div align="center"><img src="imagens/z-1.jpg" alt="z geral" title="Print da tela inicial do Zotero"/></div>
 
 1. **Biblioteca: coleções e grupos** - Coleções de referências (pastas) que podem ser organizadas como você desejar.
+
 2. **Referências**: Lista de referências que estão dentro da coleção (pasta) que foi selecionada.
+
 3. **Informações**: Informações de cada referência, tais como título, autor, ano de publicação,  resumo e etc.
+
 - **OBS**: Os artigos que estão com uma bolinha azul do lado significa que possuem um anexo, como por exemplo o texto completo em PDF.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
-***
+---
 
 ## Configuração inicial: _Preferências_
+
 ><small>(Clique nos vídeos para visualizar em nova aba)</small>
 
-### Citação:
+### Citação
 
 #### Estilos
 
@@ -108,6 +112,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 ---
 
 ## Ferramentas básicas
+
 ![bf](imagens/zt-bf.png)
 
 <small>Clique nos vídeos para visualizar em nova aba</small>
@@ -258,9 +263,10 @@ Apague o `[]` e cole o seguinte:
 ---
 
 ## Links úteis
-* [Manual do Zotero](textos/SIMONINI-zotero.pdf){:target="_blank"}
 
-* [_Capacitação para uso do Zotero_, Biblioteca da UDESC](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}
+- [Manual do Zotero](textos/SIMONINI-zotero.pdf){:target="_blank"}
+
+- [_Capacitação para uso do Zotero_, Biblioteca da UDESC](https://www.youtube.com/watch?v=aJnKjsFCva0){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -274,4 +280,4 @@ Copyright (C) 2020 Eric Brasil
 
 [Voltar para o início](#aula-síncrona-3---workshop-de-zotero)
 
-[Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/)
+[Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/){:target="_blank"}
