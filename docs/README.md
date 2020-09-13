@@ -384,7 +384,7 @@ Material de Apoio
 
 #### Vídeo complementar - módulo 3
 
-**Tema:** _LIVES DA BN | Ferramentas online: a Hemeroteca Digital Brasileira_
+**Tema:** _LIVES DA BN - Ferramentas online: a Hemeroteca Digital Brasileira_
 
 **Tipo**: Assíncrona
 
