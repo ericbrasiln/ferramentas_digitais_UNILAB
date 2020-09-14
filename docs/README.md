@@ -267,7 +267,7 @@ Material de Apoio
 
 **CH**: 4 horas
 
-**Entrega**: **11/09** via SIGAA
+**Entrega**: **22/09** via SIGAA
 
 **Descrição**: Acesse a [página](atividade2-zotero.md){:target="_blank"} ou baixe o [PDF](atividade2-zotero.pdf){:target="_blank"} com as informações da tarefa;
 
@@ -386,7 +386,7 @@ Material de Apoio
 
 #### Vídeo complementar - módulo 3
 
-**Tema:** _LIVES DA BN | Ferramentas online: a Hemeroteca Digital Brasileira_
+**Tema:** _LIVES DA BN - Ferramentas online: a Hemeroteca Digital Brasileira_
 
 **Tipo**: Assíncrona
 
