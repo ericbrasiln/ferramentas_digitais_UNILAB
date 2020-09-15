@@ -90,8 +90,6 @@ e **digitalmente**?
 
 <img src="imagens/gslogo.png" width="50%" height="50%">
 
-[A partir de thread no Twitter de Tarcizio Silva](https://twitter.com/tarciziosilva/status/1303347668123635714){:target="_blank"}
-
 ✅️ Faça um perfil, pois assim a partir de suas buscas e seus favoritos, o Scholar vai te indicar artigos relacionados;
 
 ✅️ Indexador que engloba revistas avaliadas por pares, livros, citações, etc.
@@ -138,6 +136,8 @@ e **digitalmente**?
 
 ![menu](imagens/ga5.png)
 
+Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/tarciziosilva/status/1303347668123635714){:target="_blank"}
+
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
@@ -166,23 +166,27 @@ e **digitalmente**?
 
 ### Repositórios de acesso restrito
 
-- [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5){:target="_blank"}
+- [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5){:target="_blank"} - **Acesso Capes**
 
-- [Jstor](https://www.jstor.org/){:target="_blank"}
+- [Jstor](https://www.jstor.org/){:target="_blank"} - **Acesso Capes**
 
-- [Project Muse](https://muse.jhu.edu/){:target="_blank"}
+- [Project Muse](https://muse.jhu.edu/){:target="_blank"} - **Acesso Capes**
+
+-[Scopus](https://www.scopus.com/home.uri) - **Acesso Capes**
+
+- [Oxford Research Encyclopedias](https://oxfordre.com/){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
-## 🤖️ A batalha pela ciência aberta
+## 🤖️ A batalha pela ciência aberta e livre
 
 **Vc conhece essa pessoa?**
 
 ![alexandra](gifs/al-sh.gif)
 
-[💻️ Descubra!](https://sci-hub.st/alexandra){:target="_blank"}
+[💻️ Descubra e agradeça!](https://sci-hub.st/alexandra){:target="_blank"}
 
 - [Sci-Hub](https://sci-hub.tw/){:target="_blank"}
 
