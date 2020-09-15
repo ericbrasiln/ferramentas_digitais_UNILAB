@@ -8,9 +8,9 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 ---
 
-**Ferramentas digitais e a pesquisa em humanidades**
+Ferramentas digitais e a pesquisa em humanidades
 
-**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
+Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)
 
 **Data**: 15 de setembro de 2020
 
@@ -22,9 +22,17 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 ## Índice
 
-- [Apresentação](#apresentação-pra-que-serve-o-zotero)
-
-- [Links úteis](#links-úteis)
+- [O que é? Pra que fazer?](#o-que-é-pra-que-fazer)
+- [Como fazer?](#como-fazer)
+- [O Levantamento bibliográfico on-line](#o-levantamento-bibliográfico-on-line)
+  - [GOOGLE it](#google-it)
+- [Google Scholar](#google-scholar)
+- [Busca avançada em repositórios específicos](#%EF%B8%8F-busca-avançada-em-repositórios-específicos)
+  - [Teses e dissertações](#teses-e-dissertações)
+  - [Repositórios de acesso restrito](#repositórios-de-acesso-restrito)
+-[A batalha pela ciência aberta](#%EF%B8%8F-a-batalha-pela-ciência-aberta)
+- [Plataformas de currículos e acervos pessoais](#plataformas-de-currículos-e-acervos-pessoais)
+- [Links úteis](#%EF%B8%8F-links-úteis)
 - [Licença](#licença)
 
 ---
@@ -71,16 +79,16 @@ e **digitalmente**?
 
 [Google acha que ferramenta em mão negra é uma arma](https://tarciziosilva.com.br/blog/google-acha-que-ferramenta-em-mao-negra-e-uma-arma/){:target="_blank"}, de [Tarcizio Silva](https://twitter.com/tarciziosilva){:target="_blank"}
 
-<img src="imagens/g2.jpg" height="60%" width="60%"> 
-
-<img src="imagens/g1.jpg" height="60%" width="60%">
+<img src="imagens/g2.jpg" height="40%" width="40%">
+<img src="imagens/g1.jpg" height="40%" width="40%">
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
+## Google Scholar
 
-<img src="imagens/gslogo.png">
+<img src="imagens/gslogo.png" width="50%" height="50%">
 
 [A partir de thread no Twitter de Tarcizio Silva](https://twitter.com/tarciziosilva/status/1303347668123635714){:target="_blank"}
 
@@ -96,7 +104,7 @@ e **digitalmente**?
 
 **-** (negativo): exclui termo da busca - `História digital -pública`
 
-**" "** (expressão enter aspas duplas): busca a expressão exata - `"métodos digitais"
+**" "** (expressão enter aspas duplas): busca a expressão exata - `"métodos digitais"`
 
 - É possível combinar os parâmetros: `história OR sociologia AND digital` ou `cidadania AND pós-abolição AND carnaval -"rio de janeiro"` ou ainda `author:ALBUQUERQUE "cidadania negra" AND Salvador`
 
@@ -122,13 +130,15 @@ e **digitalmente**?
 
 ![data](imagens/ga4.png)
 
-✅️ Extras: Rápido tour pelo menu (no top, à esquerda):
+✅️ Bônus: Rápido tour pelo menu (no topo, à esquerda):
 
 ![menu](imagens/ga6.png)
 
 **Pesquisa Avançada**:
 
 ![menu](imagens/ga5.png)
+
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
@@ -162,6 +172,8 @@ e **digitalmente**?
 
 - [Project Muse](https://muse.jhu.edu/){:target="_blank"}
 
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
 ---
 
 ## 🤖️ A batalha pela ciência aberta
@@ -182,11 +194,11 @@ e **digitalmente**?
 
 - [Academia.edu](https://www.academia.edu/){:target="_blank"}
 
+[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+
 ## 📎️ Links úteis
 
 - [Links da Biblioteca da Unilab](http://unilab.edu.br/linkssugeridos/){:target="_blank"}
-
-- [](){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -198,6 +210,6 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
 
-[Voltar para o início](#aula-síncrona-4---workshop-de-zotero)
+[Voltar para o início](#aula-síncrona-4---%EF%B8%8F-levantamento-bibliográfico-on-line)
 
 [Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/){:target="_blank"}
