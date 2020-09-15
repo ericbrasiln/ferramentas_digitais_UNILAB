@@ -172,7 +172,7 @@ Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/
 
 - [Project Muse](https://muse.jhu.edu/){:target="_blank"} - **Acesso Capes**
 
--[Scopus](https://www.scopus.com/home.uri) - **Acesso Capes**
+- [Scopus](https://www.scopus.com/home.uri) - **Acesso Capes**
 
 - [Oxford Research Encyclopedias](https://oxfordre.com/){:target="_blank"}
 
