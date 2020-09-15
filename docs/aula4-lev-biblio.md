@@ -204,6 +204,10 @@ Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/
 
 - [Links da Biblioteca da Unilab](http://unilab.edu.br/linkssugeridos/){:target="_blank"}
 
+- [Podcast Escafandro: Profundezas da rede - Capítulo 1: O Tabuleiro](https://www.b9.com.br/shows/escafandro/profundezas-da-rede-capitulo-1-o-tabuleiro/)
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6498ec82-7fd3-40d4-9613-e4d59a17d757?dark=false"></iframe>
+
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
