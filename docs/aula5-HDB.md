@@ -1,6 +1,8 @@
 <div align="center"><img src="imagens/banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
-# Aula síncrona 5 - 💻️ Acessando fontes on-line: o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional
+<div align="center"><h1>Aula síncrona 5 - 💻️ Acessando fontes on-line:</h1></div>
+
+<div align="center"><h2>o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional</h2></div>
 
 <div align="center"><img src="imagens/HDB/Biblioteca-Nacional.jpg"/></div>
 
@@ -180,6 +182,6 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
 
-[Voltar para o início](#aula-síncrona-4---%EF%B8%8F-levantamento-bibliográfico-on-line)
+[Voltar para o início](#índice)
 
 [Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/){:target="_blank"}
