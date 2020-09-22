@@ -23,7 +23,9 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 ## Índice
 
 - [Pesquisa na era da abundância?](#Pesquisa-na-era-da-abundância)
+
 - [Links úteis](#%EF%B8%8F-links-úteis)
+
 - [Licença](#licença)
 
 ---
@@ -51,7 +53,7 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 >os historiadores precisam pensar simultaneamente sobre como pesquisar, escrever e ensinar em um mundo de abundância histórica inédita e como evitar um futuro de escassez de registros. [...] O ‘sistema’ para preservar o passado que evoluiu ao longo dos séculos está em crise, e os historiadores precisam ajudar na construção de um novo sistema para o próximo século.
 
-Roy Rosenzweig, Scarcity or Abundance? Preserving the Past in a Digital Era, _The American Historical Review_, Volume 108, Issue 3, June 2003, Pages 735–762, https://doi.org/10.1086/ahr/108.3.735
+Roy Rosenzweig, Scarcity or Abundance? Preserving the Past in a Digital Era, _The American Historical Review_, Volume 108, Issue 3, June 2003, Pages 735–762, [https://doi.org/10.1086/ahr/108.3.735](https://doi.org/10.1086/ahr/108.3.735){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -65,70 +67,79 @@ Inspirações da Sociologia Digital: Debora Lupton, 2015.
 
 Quatro campus de preocupação da sociolpgia digital:
 
-1. a prática profissiqnal digitalizada: o uso-de ferramentas digitais para propósitos profissionais;
+1. a prática profissional digitalizada: o uso-de ferramentas digitais para propósitos profissionais;
 2. análise de dados digitais: usar dados digitais para investigações qualitativas e quantitativas;
 3. análises sociológicas de uso de mídias digitais: pesquisar o impactos das mídias e redes sociais digitais para o comportamento do atores sociais;
 4. sociologia digital crítica: realizar análises das mídias digitais com base nas teorias sociais (LUPTON, 2015, p. 11)
 
 ## 🗃️ O caso da Hemeroteca Digital Brasileira, da Biblioteca Nacional
 
-- [Breve histórico e missão](https://prezi.com/p/moig7_wnw4w-/?present=1)
+### [Breve histórico e missão](https://prezi.com/p/moig7_wnw4w-/?present=1)
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
-## Como usar?
+### Como usar?
 
-<img src="imagens/shuri.gif">
+![bob](gifs/shuri.gif)
 
-✅️ Faça um perfil, pois assim a partir de suas buscas e seus favoritos, o Scholar vai te indicar artigos relacionados;
+✅️ Acesse o site da HDB: [http://memoria.bn.br/hdb/](http://memoria.bn.br/hdb/){:target="_blank"};
 
-✅️ Indexador que engloba revistas avaliadas por pares, livros, citações, etc.
+✅️ 3 tipos de busca:
 
-✅️ Operadores:
+1. Periódico: filtrar por jornal específico;
 
-**AND** : busca referências com duas palavras -  `história AND digital`
+2. Período: filtrar por recorte Cronológico;
 
-**OR**: uma palavra ou outra - `história OR sociologia`
+3. Local: filtrar por região.
 
-**-** (negativo): exclui termo da busca - `História digital -pública`
+✅️ Resultados:
 
-**" "** (expressão enter aspas duplas): busca a expressão exata - `"métodos digitais"`
+**Janela com a ocorrência:**
 
-- É possível combinar os parâmetros: `história OR sociologia AND digital` ou `cidadania AND pós-abolição AND carnaval -"rio de janeiro"` ou ainda `author:ALBUQUERQUE "cidadania negra" AND Salvador`
+<a href="imagens/HDB/hdb-r1.png" target="_blank">
+    <img src="imagens/HDB/hdb-r1.png" position= "absolute" height="100%" width="100%">
+</a>
 
-**allintitle:** - fazer a busca apenas no título - `allintitle: história digital`
+**Menu superior:**
 
-**author:** - buscar autor específico - `author:Fanon, F.`
+<a href="imagens/HDB/hdb-r2.png" target="_blank">
+    <img src="imagens/HDB/hdb-r2.png" position= "absolute" height="100%" width="100%">
+</a>
 
-✅️ Filtros da busca (localizados no lado esquerdo):
+**Aba lateral:**
 
-**Definir período**:
+<a href="imagens/HDB/HDB-r3.png" target="_blank">
+    <img src="imagens/HDB/HDB-r3.png" position= "absolute" height="10%" width="10%">
+</a>
 
-![data](imagens/ga1.png)
+**Opções de visualização:**
 
-**Classificar por relevância ou data**:
+<a href="imagens/HDB/hdb-r5.png" target="_blank">
+    <img src="imagens/HDB/hdb-r5.png" position= "absolute" height="100%" width="100%">
+</a>
 
-![data](imagens/ga2.png)
+**Marcação do resultado:**
 
-**Definir idioma:**
+<a href="imagens/HDB/hdb-r4.png" target="_blank">
+    <img src="imagens/HDB/hdb-r4.png" position= "absolute" height="100%" width="100%">
+</a>
 
-  ![data](imagens/ga3.png)
+✅️ Salvando as referências:
 
-**Definir se inclui patentes e citações e criar alerta para a busca:**
+É preciso criar um método de registro e citação de cada referência encontrada. 
+Nome do jornal, data, número da edição, página, hyperlink e demais dados sobre a coleção estão disponíveis em cada ocorrência.
 
-![data](imagens/ga4.png)
+Também é possível salvar a maioria dos jornais acessados. Basta clicar com o botão direito na imagem e depois `Salvar imagem como`
 
-✅️ Bônus: Rápido tour pelo menu (no topo, à esquerda):
+Não deixe de salvar o hyperlink para recuperar e citar a fonte com precisão.
 
-![menu](imagens/ga6.png)
+⚠️ Dica: antes de salvar, clique em `100%`no menu de visualização, assim vc salvará a imagem na maior resolução digittalizada.
 
-**Pesquisa Avançada**:
+⚠️ Dica 2: Faça buscas de até três termos entre aspas, para frases exatas.
 
-![menu](imagens/ga5.png)
-
-Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/tarciziosilva/status/1303347668123635714){:target="_blank"}
+ Dica 3: instale a extensão [CopyFish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj){:target="_blank"} em seu navegador e faça reconhecimento instantâneo de caracteres.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
@@ -136,11 +147,21 @@ Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/
 
 ## 📎️ Links úteis
 
-- [Links da Biblioteca da Unilab](http://unilab.edu.br/linkssugeridos/){:target="_blank"}
+- [Historiografia na Rede](https://historiografianarede.wordpress.com/referencias-curso-de-extensao-historia-digital/){:target="_blank"}
 
-- [Podcast Escafandro: Profundezas da rede - Capítulo 1: O Tabuleiro](https://www.b9.com.br/shows/escafandro/profundezas-da-rede-capitulo-1-o-tabuleiro/)
+- [Biblioteca Mundial Digital](https://www.wdl.org/pt/){:target="_blank"}
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6498ec82-7fd3-40d4-9613-e4d59a17d757?dark=false"></iframe>
+- [LATIN AMERICAN, U.S. LATINX, AND IBERIAN ONLINE FREE E-RESOURCES (LACLI)](https://salalm.org/lane/lacli){:target="_blank"}
+
+- [Digital Library of the Caribbean (dLOC)](https://dloc.com/){:target="_blank"}
+
+- [Europeana](https://www.europeana.eu/pt){:target="_blank"}
+
+- [Internet Archive](https://archive.org/){:target="_blank"}
+
+- [Family Search](https://www.familysearch.org/pt/){:target="_blank"}
+
+- [JusBrasil](https://www.jusbrasil.com.br/home){:target="_blank"}
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
