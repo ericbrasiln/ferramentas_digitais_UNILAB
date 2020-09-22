@@ -2,7 +2,7 @@
 
 # Aula síncrona 5 - 💻️ Acessando fontes on-line: o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional
 
-<div align="center"><img src="gifs/shuri.gif"/></div>
+<div align="center"><img src="imagens/bn.png"/></div>
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
@@ -22,16 +22,7 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 ## Índice
 
-- [O que é? Pra que fazer?](#o-que-é-pra-que-fazer)
-- [Como fazer?](#como-fazer)
-- [O Levantamento bibliográfico on-line](#o-levantamento-bibliográfico-on-line)
-  - [GOOGLE it](#google-it)
-- [Google Scholar](#google-scholar)
-- [Busca avançada em repositórios específicos](#%EF%B8%8F-busca-avançada-em-repositórios-específicos)
-  - [Teses e dissertações](#teses-e-dissertações)
-  - [Repositórios de acesso restrito](#repositórios-de-acesso-restrito)
--[A batalha pela ciência aberta](#%EF%B8%8F-a-batalha-pela-ciência-aberta)
-- [Plataformas de currículos e acervos pessoais](#plataformas-de-currículos-e-acervos-pessoais)
+- [Pesquisa na era da abundância?](#Pesquisa-na-era-da-abundância)
 - [Links úteis](#%EF%B8%8F-links-úteis)
 - [Licença](#licença)
 
@@ -66,34 +57,30 @@ Roy Rosenzweig, Scarcity or Abundance? Preserving the Past in a Digital Era, _Th
 
 ---
 
-e **digitalmente**?
+## Desafios para o futuro? ou para o presente e os passado?
 
-![bob](gifs/bob2.gif)
+Inspirações da Sociologia Digital: Debora Lupton, 2015.
 
-[<img src="imagens/arrow.png" height="24" width="24">](#índice)
+>"Todos os tópicos que os sociólogos agora pesquisam e ensinam estão inevitavelmente conectados às tecnologias digitais" (8)
 
----
+Quatro campus de preocupação da sociolpgia digital:
+
+1. a prática profissiqnal digitalizada: o uso-de ferramentas digitais para propósitos profissionais;
+2. análise de dados digitais: usar dados digitais para investigações qualitativas e quantitativas;
+3. análises sociológicas de uso de mídias digitais: pesquisar o impactos das mídias e redes sociais digitais para o comportamento do atores sociais;
+4. sociologia digital crítica: realizar análises das mídias digitais com base nas teorias sociais (LUPTON, 2015, p. 11)
 
 ## 🗃️ O caso da Hemeroteca Digital Brasileira, da Biblioteca Nacional
 
-- qqqq
-
-### Breve Histórico
-
-**Apenas um buscador de conteúdo?**
-
-[Google acha que ferramenta em mão negra é uma arma](https://tarciziosilva.com.br/blog/google-acha-que-ferramenta-em-mao-negra-e-uma-arma/){:target="_blank"}, de [Tarcizio Silva](https://twitter.com/tarciziosilva){:target="_blank"}
-
-<img src="imagens/g2.jpg" height="40%" width="40%">
-<img src="imagens/g1.jpg" height="40%" width="40%">
+- [Breve histórico e missão](https://prezi.com/p/moig7_wnw4w-/?present=1)
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
 
-## Google Scholar
+## Como usar?
 
-<img src="imagens/gslogo.png" width="50%" height="50%">
+<img src="imagens/shuri.gif">
 
 ✅️ Faça um perfil, pois assim a partir de suas buscas e seus favoritos, o Scholar vai te indicar artigos relacionados;
 
@@ -146,64 +133,6 @@ Dicas inspiradas pela [thread no Twitter de Tarcizio Silva](https://twitter.com/
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ---
-
-## 🗃️ Busca avançada em repositórios específicos
-
-- [Periódicos Capes](https://www.periodicos.capes.gov.br/){:target="_blank"}
-
-- [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp){:target="_blank"}
-
-- [Scielo](https://www.scielo.br/scielo.php?script=sci_home&lng=pt&nrm=iso){:target="_blank"}
-
-- [Internet Archive](https://archive.org/){:target="_blank"}
-
-- [Projetc Gutenberg](https://www.gutenberg.org/)
-
-- [Directory of Open Access Journals (DOAJ)](https://www.doaj.org/){:target="_blank"}
-
-### Teses e dissertações
-
-- [Biblioteca Digital Brasileira de Teses e Dissertações (BDTD](http://bdtd.ibict.br/vufind/){:target="_blank"}
-
-- [Networked Digital Library of Theses and Dissertations (NDLTD)](http://www.ndltd.org/){:target="_blank"}
-
-- [Catálogo de teses e dissertações Capes](http://catalogodeteses.capes.gov.br/catalogo-teses/#!/){:target="_blank"}
-
-### Repositórios de acesso restrito
-
-- [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5){:target="_blank"} - **Acesso Capes**
-
-- [Jstor](https://www.jstor.org/){:target="_blank"} - **Acesso Capes**
-
-- [Project Muse](https://muse.jhu.edu/){:target="_blank"} - **Acesso Capes**
-
-- [Scopus](https://www.scopus.com/home.uri) - **Acesso Capes**
-
-- [Oxford Research Encyclopedias](https://oxfordre.com/){:target="_blank"}
-
-[<img src="imagens/arrow.png" height="24" width="24">](#índice)
-
----
-
-## 🤖️ A batalha pela ciência aberta e livre
-
-**Vc conhece essa pessoa?**
-
-![alexandra](gifs/al-sh.gif)
-
-[💻️ Descubra e agradeça!](https://sci-hub.st/alexandra){:target="_blank"}
-
-- [Sci-Hub](https://sci-hub.tw/){:target="_blank"}
-
-- [Library Genesis](http://gen.lib.rus.ec/){:target="_blank"}
-
-### Plataformas de currículos e acervos pessoais
-
-- [Research Gate](https://www.researchgate.net/){:target="_blank"}
-
-- [Academia.edu](https://www.academia.edu/){:target="_blank"}
-
-[<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
 ## 📎️ Links úteis
 
