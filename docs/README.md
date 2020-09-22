@@ -370,6 +370,8 @@ Material de Apoio
 |:--------------------|:------------------|
 |Discutir a elaboração, manutenção, acesso e preservação de coleções, repositórios e plataformas on-line de fontes históricas | - Apresentar e usar a [Hemeroteca Digital Brasileira](http://memoria.bn.br/hdb/periodico.aspx){:target="_blank"}. |
 
+**Apresentação**: [Clique aqui!](aula5-HDB.html){:target="_blank"}
+
 ***
 
 #### Leitura
