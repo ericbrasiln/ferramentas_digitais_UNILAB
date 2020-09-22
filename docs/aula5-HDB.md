@@ -2,7 +2,7 @@
 
 # Aula síncrona 5 - 💻️ Acessando fontes on-line: o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional
 
-<div align="center"><img src="imagens/bn.png"/></div>
+<div align="center"><img src="imagens/HDB/Biblioteca-Nacional.jpg"/></div>
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
@@ -22,7 +22,13 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 ## Índice
 
-- [Pesquisa na era da abundância?](#Pesquisa-na-era-da-abundância)
+- [Pesquisa na era da abundância?](#pesquisa-na-era-da-abundância)
+
+- [Desafios para o futuro? ou para o presente e os passado?](#desafios-para-o-futuro-ou-para-o-presente-e-os-passado)
+
+- [O caso da Hemeroteca Digital Brasileira, da Biblioteca Nacional](#%EF%B8%8F-o-caso-da-hemeroteca-digital-brasileira-da-biblioteca-nacional)
+
+  - [Como usar?](#como-usar)
 
 - [Links úteis](#%EF%B8%8F-links-úteis)
 
@@ -51,6 +57,7 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 <small>Tradução: 'Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas.'</small>
 
+**É só salvar no computador um coisa que achou on-line?**
 >os historiadores precisam pensar simultaneamente sobre como pesquisar, escrever e ensinar em um mundo de abundância histórica inédita e como evitar um futuro de escassez de registros. [...] O ‘sistema’ para preservar o passado que evoluiu ao longo dos séculos está em crise, e os historiadores precisam ajudar na construção de um novo sistema para o próximo século.
 
 Roy Rosenzweig, Scarcity or Abundance? Preserving the Past in a Digital Era, _The American Historical Review_, Volume 108, Issue 3, June 2003, Pages 735–762, [https://doi.org/10.1086/ahr/108.3.735](https://doi.org/10.1086/ahr/108.3.735){:target="_blank"}
@@ -59,7 +66,7 @@ Roy Rosenzweig, Scarcity or Abundance? Preserving the Past in a Digital Era, _Th
 
 ---
 
-## Desafios para o futuro? ou para o presente e os passado?
+## Desafios para o futuro? Ou para o presente e o passado?
 
 Inspirações da Sociologia Digital: Debora Lupton, 2015.
 
@@ -123,7 +130,7 @@ Quatro campus de preocupação da sociolpgia digital:
 **Marcação do resultado:**
 
 <a href="imagens/HDB/hdb-r4.png" target="_blank">
-    <img src="imagens/HDB/hdb-r4.png" position= "absolute" height="100%" width="100%">
+    <img src="imagens/HDB/hdb-r4.png" position= "absolute" height="50%" width="50%">
 </a>
 
 ✅️ Salvando as referências:
@@ -139,7 +146,7 @@ Não deixe de salvar o hyperlink para recuperar e citar a fonte com precisão.
 
 ⚠️ Dica 2: Faça buscas de até três termos entre aspas, para frases exatas.
 
- Dica 3: instale a extensão [CopyFish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj){:target="_blank"} em seu navegador e faça reconhecimento instantâneo de caracteres.
+⚠️ Dica 3: instale a extensão [CopyFish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj){:target="_blank"} em seu navegador e faça reconhecimento instantâneo de caracteres.
 
 [<img src="imagens/arrow.png" height="24" width="24">](#índice)
 
