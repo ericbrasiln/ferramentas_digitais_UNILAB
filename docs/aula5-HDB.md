@@ -1,8 +1,6 @@
 <div align="center"><img src="imagens/banner1.png" alt="Logo História" title="Logotipo do Curso de História, BA, UNILAB"/></div>
 
-<div align="center"><h1>Aula síncrona 5 - 💻️ Acessando fontes on-line:</h1></div>
-
-<div align="center"><h2>o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional</h2></div>
+#Aula síncrona 5 - 💻️ Acessando fontes on-line: o caso da Hemeroteca Digital Brasileira – Biblioteca Nacional
 
 <div align="center"><img src="imagens/HDB/Biblioteca-Nacional.jpg"/></div>
 
