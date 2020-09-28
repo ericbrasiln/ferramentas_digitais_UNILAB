@@ -2,7 +2,7 @@
 
 # Ferramentas Digitais e a Pesquisa em Humanidades
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
+Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 **Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
 
@@ -64,7 +64,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 2. Levantamento e gerenciamento bibliográfico.
 3. Arquivos, Acervos e Bibliotecas virtuais.
 4. Programação, Algoritmos e a “Sociedade Digital”.
-5. Ferramenta Bônus: a definir.
+5. OCR: gImageReader.
 
 ### Recursos Didáticos
 
@@ -131,7 +131,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Leitura
+#### Leitura 1
 
 **Tipo**: Assíncrona
 
@@ -213,7 +213,7 @@ O curso será divido em 4 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ***
 
-#### Leitura
+#### Leitura 2
 
 **Tipo**: Assíncrona
 
@@ -267,7 +267,7 @@ Material de Apoio
 
 **CH**: 4 horas
 
-**Entrega**: **22/09** via SIGAA
+**Entrega**: **27/09** via SIGAA
 
 **Descrição**: Acesse a [página](atividade2-zotero.md){:target="_blank"} ou baixe o [PDF](atividade2-zotero.pdf){:target="_blank"} com as informações da tarefa;
 
@@ -305,7 +305,7 @@ Material de Apoio
 
 ***
 
-#### Leitura
+#### Leitura 3
 
 **Tipo**: Assíncrona
 
@@ -342,9 +342,9 @@ Material de Apoio
 
 **CH**: 6 horas
 
-**Entrega**: **25/09/2020** via Sigaa.
+**Entrega**: **06/10/2020** via Sigaa.
 
-**Descrição**: _em breve_
+**Descrição**: Acesse a [página](atividade3-zotero.md){:target="_blank"} ou baixe o [PDF](atividade3-zotero.pdf){:target="_blank"} com as informações da tarefa;
 
 ***
 
@@ -374,11 +374,11 @@ Material de Apoio
 
 ***
 
-#### Leitura
+#### Leitura 4
 
 **Tipo**: Assíncrona
 
-**CH**: 2 horas
+**CH**: 4 horas
 
 **Bibliografia**
 
@@ -398,7 +398,6 @@ Material de Apoio
 
 ***
 
-
 #### Exercício prático - módulo 3
 
 **Tema:** _Usando a HDB_
@@ -407,11 +406,11 @@ Material de Apoio
 
 **CH**: 2 horas
 
-**Descrição**: _em breve_
+**Descrição**: Acesse a [página](ex_hdb.md){:target="_blank"} ou baixe o [PDF](ex_hdb.pdf){:target="_blank"} com as informações da tarefa;
 
 ***
 
-#### Plantão 3
+#### Plantão 3 - ADIADO
 
 **Data:** 25/09/2020
 
@@ -422,18 +421,6 @@ Material de Apoio
 **CH**: 30 min
 
 **Plataforma**: `Google Meet`
-
-***
-
-#### Exercício prático - módulo 3
-
-**Tema:** _Explorando acervos_
-
-**Tipo**: Assíncrona
-
-**CH**: 2 horas
-
-**Descrição**: _em breve_
 
 ***
 
@@ -461,7 +448,7 @@ Material de Apoio
 
 ***
 
-#### Leitura
+#### Leitura 5
 
 **Tipo**: Assíncrona
 
@@ -469,9 +456,9 @@ Material de Apoio
 
 **Bibliografia - Algoritmos**
 
-- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/){:target="_blank"} - [link direto-pdf](textos/Birhane.pdf){:target="_blank"}, link para versão em português em breve). 
+- BIRHANE, A. Algorithmic Colonization of Africa. SCRIPTed, v. 17, n. 2, p. 389–409, 6 ago. 2020. ([Link original](https://script-ed.org/article/algorithmic-colonization-of-africa/){:target="_blank"} - [link direto-pdf](textos/Birhane.pdf){:target="_blank"}, [link para versão em português](textos/ComunidadesAlgoritmoseAtivismos-olharesafrodiasporicos.pdf){:target="_blank"}).
 - SILVA, T. Racismo Algorítmico em plataformas digitais: microagressões e discriminação em código. In: SILVA, T (org.). **Comunidades, Algoritmos e Ativismos Digitais**: Olhares Afrodiaspóricos. São Paulo: LiteraRUA, 2020.
-(link direto-pdf _em breve_).
+([link direto-pdf](textos/ComunidadesAlgoritmoseAtivismos-olharesafrodiasporicos.pdf){:target="_blank"}).
 
 **Bibliografia - Programação e raspagem**
 
@@ -505,23 +492,9 @@ Material de Apoio
 
 ***
 
-#### Evento 1
-
-**Data:** 06/10/2020
-
-**Tema:** _Raspagem e análise de dados do Twitter (convidado)_
-
-**Tipo**: Síncrona
-
-**CH**: 2 horas
-
-**Plataforma**: `Google Meet`
-
-***
-
 #### Plantão 4
 
-**Data:** 09/10/2020
+**Data:** 02/10/2020
 
 **Tema:** _Dúvidas sobre o módulo e atividade final_
 
@@ -530,6 +503,22 @@ Material de Apoio
 **CH**: 1 hora
 
 **Plataforma**: `Google Meet`
+
+***
+
+#### Evento - Mesa no _Simpósio Integrado UNIFAL-MG 2020: Universidade, ciência e sociedade_
+
+**Data:** 08/10/2020
+
+**Horário:** 15h - 17h
+
+**Tema:** _Inteligência artificial e humanidades_
+
+**Tipo**: Síncrona
+
+**CH**: 2 horas
+
+**Plataforma**: _em breve_
 
 ***
 
