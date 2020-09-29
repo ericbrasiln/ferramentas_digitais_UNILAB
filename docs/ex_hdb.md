@@ -26,7 +26,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 3. Local: definir o local, o período, o periódico e o termo de busca; em seguida acessar e salvar pelo menos um página com ocorrência da busca;
 
-⚠️ Relembre as dicas de pesquisa na Hemeroteca Digital Brasileira [aqui](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula5-HDB.html#%EF%B8%8F-o-caso-da-hemeroteca-digital-brasileira-da-biblioteca-nacional){:target="_blank"}; e assita ao vídeo da aula [aqui](https://youtu.be/X9sQA2B_vuA).
+⚠️ Relembre as dicas de pesquisa na Hemeroteca Digital Brasileira [aqui](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula5-HDB.html#%EF%B8%8F-o-caso-da-hemeroteca-digital-brasileira-da-biblioteca-nacional){:target="_blank"}; e assita ao vídeo da aula [aqui](https://youtu.be/X9sQA2B_vuA){:target="_blank"}.
 
 ---
 
