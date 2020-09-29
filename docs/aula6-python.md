@@ -3,7 +3,7 @@
 # Aula síncrona 6 - Linguagem de Programação e algoritmos: uma introdução
 <div align="center"><img src="gifs/matrix.gif" title="Matrix"/></div>
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}-
+Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}
 
 ---
 
@@ -21,12 +21,12 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}-
 
 ## Índice
 
-- [Afinal, do que estamos falando]()
-- [Que 'língua' o computador fala?]()
-- [Como os humanos falam essa língua de zeros e uns!?]()
-- [E esse tal de _algoritmo_?]()
-- [Algoritmos em tudo]()
-- [Uso prático da programação para a pesquisa]()
+- [Afinal, do que estamos falando](#afinal-do-que-estamos-falando)
+- [Que 'língua' o computador fala?](#que-língua-o-computador-fala)
+- [Como os humanos falam essa língua de zeros e uns!?](#como-os-humanos-falam-essa-língua-de-zeros-e-uns)
+- [E esse tal de _algoritmo_?](#e-esse-tal-de-algoritmo)
+- [Algoritmos em tudo](#algoritmos-em-tudo)
+- [Uso prático da programação para a pesquisa](#uso-prático-da-programação-para-a-pesquisa)
 - [Links úteis](#links-úteis)
 - [Licença](#licença)
 
@@ -36,8 +36,9 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io){:target="_blank"}-
 
 Qual a diferença entre essas duas máquinas?
 
-![liq](gifs/liq1.gif)
-![lap](gifs/lap1.gif)
+<div align="left"><img src="gifs/liq1.gif" height="50%" width="50%"/></div>
+
+<div align="left"><img src="gifs/lap1.gif" height="80%" width="80%"/></div>
 
 - Hardware?
 - O que cada uma pode fazer?
@@ -160,7 +161,7 @@ else:
 
 - Oficina: HISTORIADORES RODANDO PYTHON!? Uma Introdução
   - [Apresentação](https://ericbrasiln.github.io/oficina-python/){:target="_blank"}
-  - [Vídeo](https://youtu.be/-6IGMyw7c6E){:target="_blank"
+  - [Vídeo](https://youtu.be/-6IGMyw7c6E){:target="_blank"}
 
 - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6){:target="_blank"}
 
@@ -182,6 +183,6 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 Copyright (C) 2020 Eric Brasil
 
-[Voltar para o início]()
+[Voltar para o início](#aula-síncrona-6---linguagem-de-programação-e-algoritmos-uma-introdução)
 
 [Página inicial](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/){:target="_blank"}
