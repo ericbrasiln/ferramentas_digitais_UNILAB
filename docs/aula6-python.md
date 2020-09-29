@@ -38,7 +38,7 @@ Qual a diferença entre essas duas máquinas?
 
 <div align="left"><img src="gifs/liq1.gif" height="50%" width="50%"/></div>
 
-<div align="left"><img src="gifs/lap1.gif" height="80%" width="80%"/></div>
+<div align="left"><img src="gifs/lap1.gif" height="50%" width="50%"/></div>
 
 - Hardware?
 - O que cada uma pode fazer?
