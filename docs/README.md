@@ -446,6 +446,8 @@ Material de Apoio
 |:--------------------|:------------------|
 | Desenvolver competências teórico-metodológicas e técnicas para utilização de ferramentas digitais na pesquisa | - Apresentação à raspagem de dados (web scraping) com Python 3 e BeautifulSoup4 |
 
+**Apresentação**: [Clique aqui!](aula6-python.html){:target="_blank"}
+
 ***
 
 #### Leitura 5
