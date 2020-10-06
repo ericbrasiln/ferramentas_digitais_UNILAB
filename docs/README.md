@@ -510,6 +510,8 @@ Material de Apoio
 
 #### Evento - Mesa no _Simpósio Integrado UNIFAL-MG 2020: Universidade, ciência e sociedade_
 
+![mesa-unifal](imagens/unifal.jpg)
+
 **Data:** 08/10/2020
 
 **Horário:** 15h - 17h
@@ -520,7 +522,7 @@ Material de Apoio
 
 **CH**: 2 horas
 
-**Plataforma**: _em breve_
+**Plataforma**: Canal do [YouTube da Unifal](https://www.youtube.com/unifalmgoficial)
 
 ***
 
