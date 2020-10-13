@@ -536,9 +536,9 @@ Material de Apoio
 
 **CH**: 6 horas
 
-**Entrega**: **20/10/2021** via Sigaa
+**Entrega**: **23/10/2021** via Sigaa
 
-**Descrição**: _em breve_
+**Descrição**: Acesse a [página](atividade4.md){:target="_blank"} ou baixe o [PDF](atividade4.pdf){:target="_blank"} com as informações da tarefa.
 
 ***
 
@@ -563,6 +563,12 @@ Material de Apoio
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
 | Reflexões e usos de programas de OCR para a pesquisa em humanidades | Workshop de gImageReader |
+
+***
+
+**Tutorial do gImageReader**:
+
+[<img src="imagens/logo-yt.png" height="40%" width="40%">](https://www.youtube.com/embed/_7eqj01Hn0M){:target="_blank"}
 
 ***
 
